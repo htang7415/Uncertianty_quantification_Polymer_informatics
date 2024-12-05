@@ -1,6 +1,7 @@
 # Uncertainty Quantification in Machine Learning for Polymer Properties: A Benchmark Study
 ---
-**Code repository for the above titled paper**
+**Code repository for the above titled paper.**
+**In notebook, we provide a step-by-step guide to reproduce the results of Tm in the paper.**
 ## Workflow
 ![alt text](workflow.png)
 ## Dataset
