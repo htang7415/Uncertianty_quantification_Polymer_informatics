@@ -5,9 +5,9 @@
 ![alt text](workflow.png)
 ## Dataset
 ![alt text](datasets.png)
-Tg: Glass transition temperature; Eg: Band gap; Tm: Melting temperature; Td: Decomposition temperature.
-Tg^EXP: represents out-of-distribution experimental Tg data from journal papers.
-Tg^MD: represents out-of-distribution Tg data derived from MD simulations in the PoLyInfo.
+* Tg: Glass transition temperature; Eg: Band gap; Tm: Melting temperature; Td: Decomposition temperature.
+* Tg^EXP: represents out-of-distribution experimental Tg data from journal papers.
+* Tg^MD: represents out-of-distribution Tg data derived from MD simulations in the PoLyInfo.
 ## Methods
 ![alt text](ML_methods.png)
 * Neural network ensemble: Pytorch
