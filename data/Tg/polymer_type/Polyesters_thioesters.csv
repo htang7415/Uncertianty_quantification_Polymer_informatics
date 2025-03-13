@@ -1,0 +1,1078 @@
+ID,Smiles,Tg,Polymer type
+P070136.mol,*OC(=O)CCCCCCCC(=O)OCCOCC*,-71.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070137.mol,*OC(=O)CCCCCCCCC(=O)OCCOCC*,-74.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070140.mol,*c1oc(cc1)C(=O)OCCOC(=O)*,85.56,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070141.mol,*OC(COCC(OC(=O)c1c(cccc1)C(=O)*)C)C,25.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070142.mol,*OC(=O)c1cc(ccc1)C(=O)OCCOCC*,16.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070143.mol,*Oc1ccc(cc1)C(=O)OCC*,77.67,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070158.mol,*Oc1ccc(cc1)C(=O)OCCOC(=O)c1ccc(cc1)*,74.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070163.mol,*Oc1ccc(cc1)C(=O)OCCOC(=O)c1ccc(cc1)OCCCC*,53.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070167.mol,*Oc1ccc(cc1)C(=O)OCCCCCOC(=O)c1ccc(cc1)*,26.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070168.mol,*Oc1ccc(cc1)C(=O)OCCCCCCOC(=O)c1ccc(cc1)*,15.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070319.mol,*OC(=O)c1c(cccc1)C(=O)OCCOCC*,-50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070323.mol,*OC(=O)C(=O)OCCOCC*,-28.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070324.mol,*OC(=O)CC(=O)OCCOCC*,-41.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070325.mol,*OC(=O)C(C(=O)OCCOCC*)C,-29.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070326.mol,*OC(=O)C(C(=O)OCCOCC*)CCC,-38.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070327.mol,*OC(=O)C(C(=O)OCCOCC*)CCCCC,-47.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070328.mol,*OC(=O)C(C(=O)OCCOCC*)CCCCCCC,-58.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070329.mol,*OC(=O)C(C(=O)OCCOCC*)CCCCCCCCC,-59.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070330.mol,*OC(=O)CCC(=O)OCCOCC*,-41.51,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070331.mol,*OC(=O)CCCC(=O)OCCOCC*,-55.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070332.mol,*OC(=O)CCCCC(=O)OCCOCC*,-54.67,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070333.mol,*OC(=O)CCCCCC(=O)OCCOCC*,-59.67,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070334.mol,*OC(=O)CCCCCCC(=O)OCCOCC*,-66.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070335.mol,*OC(=O)CCCCCCCCCCCCCCCCC(=O)OCCOCC*,-68.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070337.mol,*OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)OCC*)(CC)C,94.0,Polyesters/thioesters
+P070433.mol,*Oc1ccc(cc1)C(=O)OCCCOC(=O)c1ccc(cc1)*,57.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070434.mol,*Oc1ccc(cc1)C(=O)OCCCCOC(=O)c1ccc(cc1)*,38.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070460.mol,*c1oc(nn1)c1ccc(cc1)C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)*,370.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P070538.mol,*OC(=O)CCCCCC(=O)OCCOCCOCC*,-54.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070561.mol,*OC(=O)COCC*,-13.81,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070562.mol,*C1OCC(CO1)(COC(=O)CCCCCCC*)C,-26.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070563.mol,*C1OC(CO1)CCCCOC(=O)CCCCCCC*,-44.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070567.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCOCC*,53.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070572.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOCC*,12.58,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070623.mol,*OC(COC(=O)c1cc(ccc1)C(C(C(c1cc(ccc1)C(=O)OCC(*)(F)F)(F)F)(F)F)(F)F)(F)F,30.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070624.mol,*OC(COC(=O)c1cc(ccc1)C(=O)OCC(*)(F)F)(F)F,28.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070625.mol,*OC(COC(=O)c1cc(cc(c1)OCCCCC)C(=O)OCC(*)(F)F)(F)F,14.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070626.mol,*Oc1cc(ccc1)C(=O)OCC(C(C(COC(=O)c1cc(ccc1)*)(F)F)(F)F)(F)F,20.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070627.mol,*Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,164.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070628.mol,*Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1cc(cc(c1)OCCCCC)C(=O)*,126.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070648.mol,*C1OCC2(CO1)COC(OC2)CCCCCCCC(=O)OCCOC(=O)CCCCCCC*,0.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P070686.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCOCCC*,16.25,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P074254.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)OCCOCCOCCOc1ccc(cc1)C(=O)Oc1ccc(cc1)OCCCCCCCCCC*,64.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P074381.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCOc1ccc(cc1)C(=O)*)C(=O)CC,70.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P079048.mol,*c1ccc2C3(OC(=O)c4ccccc34)c3c(Oc2c1)cc(cc3)OC(=O)c1cc(ccc1)C(=O)O*,276.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P080133.mol,*C1(NCC(NC1)(C(=O)OCC(CSCC(COC(=O)*)(C)C)(C)C)C)C,40.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P084392.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)Sc1cc(ccc1)OC(=O)c1ccc(cc1)C(=O)Oc1cc(ccc1)Sc1ccc(cc1)C(=O)*)C,135.0,"Polysulfides, Polyesters/thioesters"
+P084393.mol,*Oc1c(cc(cc1)OC(=O)c1cc(ccc1)Sc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)Sc1cc(ccc1)C(=O)*)C,106.5,"Polysulfides, Polyesters/thioesters"
+P084394.mol,*Oc1c(cc(cc1)OC(=O)c1cc(ccc1)Sc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)Sc1cc(ccc1)C(=O)*)c1ccccc1,128.0,"Polysulfides, Polyesters/thioesters"
+P090003.mol,*OC(=O)CCC(=O)OCC*,-11.33,Polyesters/thioesters
+P090004.mol,*OC(=O)CCC(=O)OCCC*,-34.42,Polyesters/thioesters
+P090005.mol,*OC(=O)CCC(=O)OCCCC*,-22.65,Polyesters/thioesters
+P090007.mol,*OC(=O)CCCC(=O)OCCC*,-33.67,Polyesters/thioesters
+P090009.mol,*OC(=O)CCCCC(=O)OCC*,-61.91,Polyesters/thioesters
+P090010.mol,*OC(=O)CCCCC(=O)OCCC*,-52.17,Polyesters/thioesters
+P090011.mol,*OC(=O)CCCCC(=O)OCCCCCCCCCC*,-68.0,Polyesters/thioesters
+P090014.mol,*OC(=O)CCCCCCC(=O)OCCC*,-58.75,Polyesters/thioesters
+P090015.mol,*OC(=O)CCCCCCC(=O)OCCCCCCCCCC*,-22.0,Polyesters/thioesters
+P090016.mol,*OC(=O)CCCCCCCC(=O)OCC*,-45.0,Polyesters/thioesters
+P090020.mol,*OC(=O)CCCCCCCCC(=O)OCC*,-37.16,Polyesters/thioesters
+P090022.mol,*OC(=O)CCCCCCCCC(=O)OCCCC*,-64.4,Polyesters/thioesters
+P090023.mol,*OC(=O)CCCCCCCCC(=O)OCCCCCC*,-50.0,Polyesters/thioesters
+P090025.mol,*OC(=O)CCCCCCCCC(=O)OCCCCCCCCCC*,-53.0,Polyesters/thioesters
+P090027.mol,*OC(=O)c1ccc(cc1)C(=O)OCC*,77.74,Polyesters/thioesters
+P090028.mol,*OC(=O)c1cc(ccc1)C(=O)OCC*,56.5,Polyesters/thioesters
+P090029.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCC*,45.52,Polyesters/thioesters
+P090030.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCC*,19.1,Polyesters/thioesters
+P090031.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCC*,20.39,Polyesters/thioesters
+P090032.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCCC*,17.08,Polyesters/thioesters
+P090033.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCCCCCCC*,5.33,Polyesters/thioesters
+P090034.mol,*OC(=O)c1ccc(cc1)C(=O)OCC1CCC(CC1)C*,83.89,Polyesters/thioesters
+P090037.mol,*Oc1c(cc(cc1Cl)C(c1cc(c(c(c1)Cl)OC(=O)CCCCC(=O)*)Cl)(C)C)Cl,100.0,Polyesters/thioesters
+P090038.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)C1CCC(CC1)C(=O)*)(C)C,150.0,Polyesters/thioesters
+P090039.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(C)C,202.92,Polyesters/thioesters
+P090040.mol,*Oc1ccc(cc1)Cc1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,150.0,Polyesters/thioesters
+P090041.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)(C)C,166.08,Polyesters/thioesters
+P090042.mol,*OC(=O)c1cc2c(cc1)ccc(c2)C(=O)OCC*,119.0,Polyesters/thioesters
+P090043.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCC*,121.43,Polyesters/thioesters
+P090044.mol,*O[Si](CC(COC(=O)c1cc(ccc1)C(=O)OCC(C[Si](*)(C)C)(C)C)(C)C)(C)C,-52.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P090046.mol,*SC(=O)CCCCC*,19.0,Polyesters/thioesters
+P090051.mol,*OC(=O)CCCCC(=O)OCCCC*,-70.49,Polyesters/thioesters
+P090052.mol,*OC(=O)CCCCC(=O)OCCCCC*,-70.33,Polyesters/thioesters
+P090053.mol,*OC1CCC(CC1)OC(=O)CCCCC(=O)*,77.8,Polyesters/thioesters
+P090055.mol,*OC(=O)CCCCCCCCC(=O)OCC#CC*,-30.88,Polyesters/thioesters
+P090060.mol,*OC(=O)c1c(cccc1)C(=O)OCC*,70.88,Polyesters/thioesters
+P090061.mol,*Oc1cc(ccc1)OC(=O)c1cc(ccc1)C(=O)*,141.6,Polyesters/thioesters
+P090062.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)C)(C)C)C,167.0,Polyesters/thioesters
+P090064.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,269.5,Polyesters/thioesters
+P090065.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*,279.0,Polyesters/thioesters
+P090066.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*,282.5,Polyesters/thioesters
+P090075.mol,*OC(=O)c1c2c(ccc1)c(ccc2)C(=O)OCC*,75.0,Polyesters/thioesters
+P090076.mol,*OC(=O)c1c2c(c(cc1)C(=O)OCC*)cccc2,64.0,Polyesters/thioesters
+P090085.mol,*OC(=O)C*,55.86,Polyesters/thioesters
+P090087.mol,*OC(=O)CCC*,-28.78,Polyesters/thioesters
+P090088.mol,*OC(=O)CCCC*,-58.13,Polyesters/thioesters
+P090089.mol,*OC(=O)CCCCC*,-57.39,Polyesters/thioesters
+P090090.mol,*OC(=O)CCCCCCCCCC*,-46.05,Polyesters/thioesters
+P090091.mol,*OC(=O)CCCCCCCCCCCC*,-41.37,Polyesters/thioesters
+P090092.mol,*OC(=O)CCCCCCCCCCCCCC*,-35.42,Polyesters/thioesters
+P090093.mol,*OC(=O)CCCCCC*,-14.0,Polyesters/thioesters
+P090101.mol,*OC(=O)CCCCC(=O)OCCCCCC*,-70.67,Polyesters/thioesters
+P090105.mol,*OC(=O)CCCCCCCCCCCCCCCCC(=O)OCCCCCCCCCC*,-17.0,Polyesters/thioesters
+P090110.mol,*OC(=O)CCCCC(=O)OCCCCCCCCCCCCCCCC*,-15.0,Polyesters/thioesters
+P090111.mol,*OC(=O)CCCCCCC(=O)OCCCCCCCCCCCCCCCC*,-26.0,Polyesters/thioesters
+P090134.mol,*OC(=O)c1ccc(cc1)C(=O)OCCC*,53.44,Polyesters/thioesters
+P090135.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCCCCCCCC*,-22.5,Polyesters/thioesters
+P090136.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)C)C,37.5,Polyesters/thioesters
+P090137.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CC)CC,26.0,Polyesters/thioesters
+P090138.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CCC)CCC,19.67,Polyesters/thioesters
+P090139.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CCCC)CCCC,16.0,Polyesters/thioesters
+P090140.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CCCCCC)CCCCCC,-15.5,Polyesters/thioesters
+P090141.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CCCCCCCCCC)CCCCCCCCCC,-38.0,Polyesters/thioesters
+P090142.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)CCCCCCCCCCCCCCCC)CCCCCCCCCCCCCCCC,-27.0,Polyesters/thioesters
+P090143.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C(C*)C(C)C)C(C)C,65.0,Polyesters/thioesters
+P090144.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)CCC(CC)C,237.0,Polyesters/thioesters
+P090146.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C1CCCCC1,206.0,Polyesters/thioesters
+P090147.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C1C2CCC(C1)C2,267.0,Polyesters/thioesters
+P090163.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCCC*,7.0,Polyesters/thioesters
+P090164.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCCCC*,5.5,Polyesters/thioesters
+P090167.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCCCCCCCCCCC(=O)*,95.0,Polyesters/thioesters
+P090170.mol,*OC(=O)CCC(=O)OCC1CCC(CC1)C*,-1.0,Polyesters/thioesters
+P090171.mol,*OC(=O)CCCCCC(=O)OCC*,-54.0,Polyesters/thioesters
+P090172.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCCCC*,-1.0,Polyesters/thioesters
+P090173.mol,*OC(=O)C(=O)OCCCCCC*,66.5,Polyesters/thioesters
+P090175.mol,*OC(CC(=O)*)C,2.01,Polyesters/thioesters
+P090176.mol,*OC(C(=O)*)C,53.36,Polyesters/thioesters
+P090177.mol,*OC(=O)CC*,-24.18,Polyesters/thioesters
+P090181.mol,*OC(CCC(C(=O)*)C1OCCCO1)CCC,17.4,Polyesters/thioesters
+P090182.mol,*OC(=O)C(C*)(CC)CC,60.0,Polyesters/thioesters
+P090183.mol,*OC(=O)C(C*)(C)C,-6.17,Polyesters/thioesters
+P090184.mol,*OC(CC(=O)*)CC,-16.67,Polyesters/thioesters
+P090185.mol,*OC(=O)C(C*)(CC)C,-7.4,Polyesters/thioesters
+P090187.mol,*OC(=O)C(C*)C,-26.33,Polyesters/thioesters
+P090188.mol,*OC(=O)C(C*)(CCC)C,7.35,Polyesters/thioesters
+P090189.mol,*OC(CC(=O)*)C(Cl)(Cl)Cl,156.0,Polyesters/thioesters
+P090190.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCCCCCC*,22.0,Polyesters/thioesters
+P090191.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCCCCC*,23.0,Polyesters/thioesters
+P090192.mol,*Oc1ccc(cc1)OC(=O)CCCCC(=O)*,90.0,Polyesters/thioesters
+P090208.mol,*OC(=O)C1CCC(CC1)C(=O)OCC1CCC(CC1)C*,67.68,Polyesters/thioesters
+P090212.mol,*OC(=O)c1cc(ccc1)C(=O)OCC1CCC(CC1)C*,70.0,Polyesters/thioesters
+P090224.mol,*OC(=O)CCCCCNC(=O)CCCCC(=O)NCCCCCC(=O)OCCCCCCCCCC*,-12.0,"Polyesters/thioesters, Polyamides/thioamides"
+P090227.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCCCCC*,46.0,Polyesters/thioesters
+P090259.mol,*OC(=O)CC(=O)OCCCCCCCCCCCCCCCCCCCC*,-35.1,Polyesters/thioesters
+P090271.mol,*OC(=O)C1CCC(CC1)C(=O)OCC*,25.0,Polyesters/thioesters
+P090276.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCC*,60.0,Polyesters/thioesters
+P090288.mol,*OC(COC(=O)c1cc(ccc1)C(=O)*)C,75.17,Polyesters/thioesters
+P090336.mol,*Oc1cc(ccc1)C(=O)*,142.33,Polyesters/thioesters
+P090339.mol,*Oc1ccc(cc1)CC(=O)*,117.0,Polyesters/thioesters
+P090342.mol,*OC(CC(=O)*)C(Cl)(Cl)C,109.0,Polyesters/thioesters
+P090353.mol,*SC(C(=O)*)C,12.0,Polyesters/thioesters
+P090354.mol,*SC(=O)CCC(CC*)C,-50.0,Polyesters/thioesters
+P090357.mol,*Oc1ccc(cc1)Cc1ccc(cc1)OC(=O)CCCCC(=O)*,60.5,Polyesters/thioesters
+P090383.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCC*,45.25,Polyesters/thioesters
+P090411.mol,*Oc1cc(ccc1)OC(=O)CCC(=O)*,38.2,Polyesters/thioesters
+P090413.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,267.0,Polyesters/thioesters
+P090423.mol,*OC(=O)CCCCCNC(=O)CCCCC(=O)NCCCCCC(=O)OCCCC*,-15.0,"Polyesters/thioesters, Polyamides/thioamides"
+P090429.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCC*,70.0,Polyesters/thioesters
+P090437.mol,*OC(=O)CCCC(=O)OCCCC*,-36.5,Polyesters/thioesters
+P090441.mol,*OC(=O)COCC(=O)OCCCC*,-27.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P090457.mol,*OC(=O)CCCCC(=O)OCC(C*)(C)C,-50.0,Polyesters/thioesters
+P090459.mol,*OC(=O)C1CCC(CC1)C(=O)OCCC*,-6.0,Polyesters/thioesters
+P090465.mol,*OC(CCOC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)*)C,86.83,Polyesters/thioesters
+P090466.mol,*OC(=O)c1cc(ccc1)C(=O)OCCC*,36.0,Polyesters/thioesters
+P090469.mol,*OC(=O)CCC(=O)OCC(C*)(C)C,-18.0,Polyesters/thioesters
+P090479.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C*)(C)C,68.0,Polyesters/thioesters
+P090498.mol,*OC(=O)c1cc(ccc1)C(=O)OCc1ccc(cc1)C*,143.0,Polyesters/thioesters
+P090506.mol,*Oc1c(cc(cc1C)c1cc(c(c(c1)C)OC(=O)CCCCC(=O)*)C)C,108.0,Polyesters/thioesters
+P090507.mol,*Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)CCCCC(=O)*)C)(C)C)C,93.0,Polyesters/thioesters
+P090508.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCC(=O)*)(C)C,54.0,Polyesters/thioesters
+P090509.mol,*Oc1c(cc(cc1c1ccccc1)Cc1cc(c(c(c1)c1ccccc1)OC(=O)CCCCC(=O)*)c1ccccc1)c1ccccc1,115.0,Polyesters/thioesters
+P090510.mol,*Oc1cc(cc(c1)CCCC)OC(=O)c1cc(ccc1)C(=O)*,97.5,Polyesters/thioesters
+P090511.mol,*O[Sn](OC(=O)CCCCC(=O)*)(CCCC)CCCC,110.0,Polyesters/thioesters
+P090512.mol,*O[Sn](OC(=O)c1ccc(cc1)C(=O)*)(CCCC)CCCC,315.0,Polyesters/thioesters
+P090514.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCCCCC*,43.75,Polyesters/thioesters
+P090515.mol,*OC(=O)CCC(CC*)C,-53.0,Polyesters/thioesters
+P090516.mol,*OC(CCCC(C(=O)*)C)C,-33.0,Polyesters/thioesters
+P090517.mol,*Oc1cc(cc(c1)CC)OC(=O)c1cc(ccc1)C(=O)*,138.0,Polyesters/thioesters
+P090518.mol,*OC(=O)c1cc(cc(c1)C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F,27.0,Polyesters/thioesters
+P090519.mol,*OC(=O)c1cc(ccc1)c1cc(ccc1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F,45.0,Polyesters/thioesters
+P090520.mol,*OC(=O)c1cc(ccc1)C(C(C(C(C(c1cc(ccc1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,19.83,Polyesters/thioesters
+P090521.mol,*OC(=O)c1cc(ccc1)C(C(C(c1cc(ccc1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,18.67,Polyesters/thioesters
+P090526.mol,*Oc1cc(cc(c1)CCCCCC)OC(=O)c1cc(ccc1)C(=O)*,67.5,Polyesters/thioesters
+P090527.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,185.5,Polyesters/thioesters
+P090528.mol,*OC(=O)c1cc(ccc1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F,23.5,Polyesters/thioesters
+P090529.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1cc(ccc1)C(=O)*)C)(C)C)C,162.0,Polyesters/thioesters
+P090530.mol,*Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1cc(ccc1)C(=O)*)C)(C)C)C,187.0,Polyesters/thioesters
+P090534.mol,*Oc1ccc(cc1)C1(CCCCC1)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,127.0,Polyesters/thioesters
+P090535.mol,*Oc1c(cc(cc1C)c1cc(c(c(c1)C)OC(=O)CCCCCCCCC(=O)*)C)C,57.0,Polyesters/thioesters
+P090536.mol,*OC1C(C(C1(C)C)OC(=O)C1CCC(CC1)C(=O)*)(C)C,169.0,Polyesters/thioesters
+P090537.mol,*OC1C(C(C1(C)C)OC(=O)c1ccc(cc1)C(=O)*)(C)C,184.0,Polyesters/thioesters
+P090538.mol,*OC(=O)C1CCC(CC1)C(=O)OCCCC*,-10.5,Polyesters/thioesters
+P090539.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCC*,59.33,Polyesters/thioesters
+P090540.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCC*,50.83,Polyesters/thioesters
+P090541.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCC*,65.5,Polyesters/thioesters
+P090542.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCC*,84.0,Polyesters/thioesters
+P090543.mol,*Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)CCCCCCCCC(=O)*)C)(C)C)C,45.0,Polyesters/thioesters
+P090544.mol,*Oc1cc(cc(c1)C)OC(=O)c1cc(ccc1)C(=O)*,163.0,Polyesters/thioesters
+P090546.mol,*OC(=O)C1CCC(CC1)C(=O)OCC(C*)(C)C,30.0,Polyesters/thioesters
+P090549.mol,*Oc1cc(cc(c1)CCCCCCCCC)OC(=O)c1cc(ccc1)C(=O)*,41.5,Polyesters/thioesters
+P090550.mol,*Oc1cc(cc(c1)CCCCCCCC)OC(=O)c1cc(ccc1)C(=O)*,50.5,Polyesters/thioesters
+P090551.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc(cc(c1)CCCCC)C(=O)*,138.0,Polyesters/thioesters
+P090552.mol,*OC(=O)c1c(c(ccc1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F)OCCCCC,17.0,Polyesters/thioesters
+P090553.mol,*OC(=O)c1c(ccc(c1)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F)OCCCCC,9.0,Polyesters/thioesters
+P090554.mol,*OC(=O)c1cc(cc(c1)OCCCCC)C(=O)OCC(C(C(C*)(F)F)(F)F)(F)F,-30.0,Polyesters/thioesters
+P090555.mol,*Oc1ccc(cc1)Cc1ccc(cc1)OC(=O)c1cc(cc(c1)OCCCCC)C(=O)*,110.0,Polyesters/thioesters
+P090556.mol,*Oc1c(cc(cc1c1ccccc1)c1cc(c(c(c1)c1ccccc1)OC(=O)CCCCCCCCC(=O)*)c1ccccc1)c1ccccc1,98.0,Polyesters/thioesters
+P090557.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCCCCCC(=O)*,151.0,Polyesters/thioesters
+P090558.mol,*Oc1cc(ccc1)C(C(C(c1cc(ccc1)OC(=O)c1cc(ccc1)C(C(C(c1cc(ccc1)C(=O)*)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,74.0,Polyesters/thioesters
+P090559.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(CC)C)(C)C,207.5,Polyesters/thioesters
+P090560.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(ccc1)C(C(C(c1cc(ccc1)C(=O)*)(F)F)(F)F)(F)F)(C)C,122.0,Polyesters/thioesters
+P090561.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)(C)C,14.25,Polyesters/thioesters
+P090566.mol,*Oc1c(cc(cc1c1ccccc1)Cc1cc(c(c(c1)c1ccccc1)OC(=O)CCCCCCCCC(=O)*)c1ccccc1)c1ccccc1,92.0,Polyesters/thioesters
+P090567.mol,*Oc1c(cc(cc1C)c1cc(c(c(c1)C)OC(=O)CCCCCC(=O)*)C)C,96.0,Polyesters/thioesters
+P090568.mol,*Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)CCCCCC(=O)*)C)(C)C)C,84.0,Polyesters/thioesters
+P090569.mol,*Oc1c(cc(cc1c1ccccc1)Cc1cc(c(c(c1)c1ccccc1)OC(=O)CCCCCC(=O)*)c1ccccc1)c1ccccc1,111.0,Polyesters/thioesters
+P090570.mol,*Oc1cc(cc(c1)CCC)OC(=O)c1cc(ccc1)C(=O)*,129.0,Polyesters/thioesters
+P090571.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)CCCC)(C)C)CCCC,156.67,Polyesters/thioesters
+P090572.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)C(CC)C)(C)C)C(CC)C,90.0,Polyesters/thioesters
+P090573.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)Cl)(C)C)Cl,190.0,Polyesters/thioesters
+P090574.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)C(C)C)(C)C)C(C)C,130.0,Polyesters/thioesters
+P090575.mol,*Oc1cc(ccc1)OC(=O)c1cc(cc(c1)OCCCCC)C(=O)*,96.0,Polyesters/thioesters
+P090577.mol,*Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)C(=O)*)C)(C)C)C,239.0,Polyesters/thioesters
+P090580.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,285.0,Polyesters/thioesters
+P090582.mol,*Oc1cc(cc(c1)CCCCCCCCCCCCC)OC(=O)c1cc(ccc1)C(=O)*,25.5,Polyesters/thioesters
+P090583.mol,*Oc1cc(cc(c1)CCCCCCCCCCC)OC(=O)c1cc(ccc1)C(=O)*,34.5,Polyesters/thioesters
+P090587.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(CS(=O)(=O)CC(C*)(C)C)(C)C,105.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P090590.mol,*C1(c2c(C(=O)N1)cccc2)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*,325.0,"Polyesters/thioesters, Polyamides/thioamides"
+P090591.mol,*C1(c2c(C(=O)N1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*,327.0,"Polyesters/thioesters, Polyamides/thioamides"
+P090592.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)Oc1ccc(cc1)*,279.0,Polyesters/thioesters
+P090593.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1cc(cc(c1)Cl)C(=O)Oc1ccc(cc1)*,313.0,Polyesters/thioesters
+P090595.mol,*OC1CCC(CC1)OC(=O)CCCCCCCCC(=O)*,66.0,Polyesters/thioesters
+P090598.mol,*OC(COC(=O)c1c(cccc1)C(=O)*)C,95.0,Polyesters/thioesters
+P090610.mol,*OC(COC(=O)c1ccc(cc1)C(=O)*)C,91.71,Polyesters/thioesters
+P090625.mol,*Oc1ccc(cc1)C1(c2c(CC1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,312.0,Polyesters/thioesters
+P090627.mol,*Oc1c(cc(cc1)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)c1ccccc1,132.0,Polyesters/thioesters
+P090631.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCC*,41.71,Polyesters/thioesters
+P090632.mol,*OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)OCCCC*)(C)C,42.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P090633.mol,*OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)OCCCC*)(C)C,44.0,Polyesters/thioesters
+P090634.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C,176.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P090635.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C)C,195.0,Polyesters/thioesters
+P090636.mol,*Oc1cc(ccc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C,134.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P090637.mol,*Oc1cc(ccc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C)C,158.0,Polyesters/thioesters
+P094250.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CN(CC(=O)*)c1ccc(cc1)N=Nc1ccc(cc1)[N+](=O)[O-])(C)C,152.0,"Polyesters/thioesters, Polyimines"
+P094308.mol,*Oc1ccc(cc1)OC(=O)/C=C/c1ccc(cc1)/C=C/C(=O)*,210.0,Polyesters/thioesters
+P094309.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)/C=C/c1ccc(cc1)/C=C/C(=O)*,243.0,Polyesters/thioesters
+P094316.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)*)(C)C)cc1,225.0,"Polyimides/thioimides, Polyesters/thioesters"
+P094334.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCOC(=O)*)cc1,130.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094335.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCOC(=O)*)cc1,129.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094336.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCOC(=O)*)cc1,107.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094337.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCCOC(=O)*)cc1,106.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094338.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCCCOC(=O)*)cc1,105.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094339.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCCCCOC(=O)*)cc1,100.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094340.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCCCCCOC(=O)*)cc1,102.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094341.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)Nc2ccc(cc2)C(=O)OCCCCCCCCCCCCOC(=O)*)cc1,74.0,"Polyimides/thioimides, Polyesters/thioesters, Polyamides/thioamides"
+P094396.mol,*Oc1ccc(cc1)c1c(c(c(c(c1)c1ccccc1)c1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)c1ccccc1)c1ccccc1)c1ccccc1,225.0,Polyesters/thioesters
+P094397.mol,*Oc1ccc(cc1)c1ccc(cc1)c1c(c(c(c(c1)c1ccccc1)c1ccc(cc1)c1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)c1ccccc1)c1ccccc1)c1ccccc1,260.0,Polyesters/thioesters
+P094550.mol,*C1(c2c(C(=O)O1)cccc2)c1cc(c(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1c(cc(cc1)*)C)C,273.0,Polyesters/thioesters
+P094574.mol,*OC(=O)c1cc(c(cc1)c1c(cc(cc1)C(=O)OCC*)C)C,73.0,Polyesters/thioesters
+P094575.mol,*OC(=O)c1cc2c(C(CC2(c2ccc(cc2)C(=O)OCC*)C)(C)C)cc1,154.0,Polyesters/thioesters
+P094584.mol,*Oc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*,52.8,Polyesters/thioesters
+P094585.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)S(=O)(=O)c1ccc(cc1)C(=O)*)(C)C,205.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P094589.mol,*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,249.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P094598.mol,*OC(CCCCC(=O)*)C,-40.0,Polyesters/thioesters
+P094604.mol,*C1(c2c(C(=O)N1C)cccc2)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*,285.0,"Polyesters/thioesters, Polyamides/thioamides"
+P094605.mol,*C1(c2c(C(=O)N1C)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*,282.0,"Polyesters/thioesters, Polyamides/thioamides"
+P099018.mol,*c1ccc2c(c1)c(=O)oc(n2)c1cc(cc(c1)N1C(=O)c2c(C1=O)cccc2)c1oc(=O)c2c(ccc(c2)C*)n1,322.0,"Polyesters/thioesters, Polyimines"
+P099049.mol,*C1(c2c(NC1=O)cccc2)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*,256.0,"Polyesters/thioesters, Polyamides/thioamides"
+P099050.mol,*C1(c2c(NC1=O)c(cc(c2)Cl)Cl)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*,270.0,"Polyesters/thioesters, Polyamides/thioamides"
+P130006.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)OC(=O)*)cc1,267.5,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P130007.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)OC(=O)*)cc1,230.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P130337.mol,*c1cc2c(C(=O)N(C2=O)c2c(cccc2)C(=O)OCCOC(=O)*)cc1,180.0,"Polyimides/thioimides, Polyesters/thioesters"
+P130338.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)C=CC(=O)OCCOC(=O)*)cc1,230.0,"Polyimides/thioimides, Polyesters/thioesters"
+P150123.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)Oc1ccc(cc1)*,252.5,"Polyesters/thioesters, Polycarbonates/thiocarbonates"
+P370001.mol,*OC(=O)CCCCCCCCCCC(=O)OCCOCC*,-71.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370021.mol,*C1CC2CC(CC(C1)O2)OC(=O)c1ccc(cc1)C(=O)O*,207.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370022.mol,*C1CC2CC(CC(C1)O2)OC(=O)c1cc(ccc1)C(=O)O*,113.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370024.mol,*C1(c2c(CO1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*,312.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370026.mol,*C1(c2c(Oc3c1cccc3)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*,252.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370029.mol,*c1cc2Oc3c(C4(c2cc1)c1ccccc1c1ccccc41)ccc(c3)OC(=O)c1ccc(cc1)C(=O)O*,290.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370045.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)(C)C,192.67,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370051.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(ccc1)Oc1cc(ccc1)C(=O)*)(C)C,85.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370090.mol,*Oc1ccc(cc1)C(=O)OCC(COC(=O)c1ccc(cc1)*)(C)C,73.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370105.mol,*C1OC(CO1)COC(=O)CCCCCCC*,-23.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370106.mol,*C1OCC(CO1)OC(=O)CCCCCCC*,6.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370150.mol,*Oc1ccc(cc1)OC(=O)c1cc(ccc1)Oc1cc(ccc1)C(=O)*,119.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370151.mol,*Oc1cc(ccc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,159.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370158.mol,*Oc1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,134.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370165.mol,*Oc1ccc(cc1)Oc1cc(ccc1)C(=O)Oc1ccc(cc1)OC(=O)c1cc(ccc1)*,119.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370167.mol,*Oc1cc2c(cc1)cc(cc2)OC(=O)c1cc(ccc1)Oc1ccc(cc1)Oc1cc(ccc1)C(=O)*,125.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370169.mol,*Oc1ccc(cc1)Oc1ccc(cc1)Oc1cc(ccc1)C(=O)Oc1ccc(cc1)OC(=O)c1cc(ccc1)*,101.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370170.mol,*Oc1ccc(cc1)Oc1ccc(cc1)Oc1cc(ccc1)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc(ccc1)*,119.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370171.mol,*Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1cc(ccc1)Oc1ccc(cc1)Oc1cc(ccc1)C(=O)*,104.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370172.mol,*Oc1cc(ccc1)Oc1ccc(cc1)Oc1cc(ccc1)OC(=O)c1ccc(cc1)C(=O)*,103.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370174.mol,*Oc1cc(ccc1)Oc1ccc(cc1)C(=O)Oc1cc(ccc1)OC(=O)c1ccc(cc1)*,131.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370309.mol,*OC(COC(COC(=O)c1ccc(cc1)C(=O)*)C)C,37.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370313.mol,*OC(=O)C1CCC(CC1)C(=O)OCCOCC*,-10.15,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370351.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)Oc1c(c(c(c(c1F)F)C(=O)c1c(c(c(c(c1F)F)Oc1ccc(cc1)*)F)F)F)F,215.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones"
+P370372.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)Oc1ccc(cc1)C(=O)c1ccc(cc1)Oc1ccc(cc1)*,218.29,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones"
+P370404.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)*,247.14,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P370476.mol,*C1COC2C1OCC2OC(=O)c1oc(cc1)C(=O)O*,188.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370496.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCOCCOCCOCC*,4.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370516.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCOCCOCC*,50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370517.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCOCCOCCOCC*,20.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370518.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCOCCOCCOCCOCCOCCOCCOCCOCCOCC*,13.33,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370558.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCCOC(=O)c1ccc(cc1)C(=O)OCC*)(C)C,83.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370595.mol,*Oc1ccc(cc1)C(=O)OCCOCCOC(=O)c1ccc(cc1)OC(=O)*,51.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polycarbonates/thiocarbonates"
+P370619.mol,*OC(=O)CCOCC*,-35.55,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370657.mol,*OC(CC(=O)OCC*)C,-37.1,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370689.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)Oc1ccc(cc1)P(=O)(c1ccc(cc1)Oc1ccc(cc1)*)C,263.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370756.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)c1cc(ccc1)C(=O)OCC(C*)O)O)(C)C,97.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370771.mol,*c1cc2Oc3c(C(c2cc1)(C)C)ccc(c3)OC(=O)c1cc2c(C(CC2(c2ccc(cc2)C(=O)O*)C)(C)C)cc1,297.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P370827.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCOc1ccc(cc1)C(=O)*)N=Nc1ccc(cc1)C#N,98.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372045.mol,*OC(=O)CCSCCC(=O)OCCOCC*,-40.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P372046.mol,*OC(=O)CCSCCC(=O)OCCOCCOCC*,-44.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P372047.mol,*OC(=O)CCSCCC(=O)OCCOCCOCCOCC*,-44.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P372048.mol,*OC(=O)CCSCCC(=O)OCCOCCOCCOCCOCC*,-47.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P372075.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)OCCCCC*,112.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372076.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)OCCCCCC*,53.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372090.mol,*c1cc2c(C(=O)OC2=Nc2cc(ccc2)Oc2cc(ccc2)Oc2cc(ccc2)N=C2OC(=O)c3c2cc(cc3)C(=O)*)cc1,190.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P372091.mol,*c1cc2c(C(=O)OC2=Nc2cc(ccc2)Oc2ccc(cc2)N=C2OC(=O)c3c2cc(cc3)C(=O)*)cc1,253.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P372093.mol,*c1cc2c(C(=O)OC2=Nc2ccc(cc2)Oc2ccc(cc2)C(c2ccc(cc2)Oc2ccc(cc2)N=C2OC(=O)c3c2cc(cc3)C(=O)*)(C(F)(F)F)C(F)(F)F)cc1,248.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P372109.mol,*OC(=O)c1ccc(cc1)N=CNc1ccc(cc1)C(=O)OCCOCC*,77.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372130.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCCCOc1ccc(cc1)C(=O)*)S(=O)(=O)c1ccccc1,88.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372172.mol,*Oc1ccc(cc1)C(=O)OCCOCCOCCOC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,25.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372173.mol,*Oc1ccc(cc1)C(=O)OCCOCCOCCOCCOC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,25.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372194.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCOc1ccc(cc1)C(=O)*)S(=O)(=O)c1ccccc1,112.6,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372195.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCCCCCOc1ccc(cc1)C(=O)*)S(=O)(=O)c1ccccc1,82.7,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372204.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)CCCCC(=O)OCC(C*)O)O)(C)C,37.33,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372205.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)CCCCCCC(=O)OCC(C*)O)O)(C)C,35.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372206.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)CCCCCCCCC(=O)OCC(C*)O)O)(C)C,30.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372207.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)CCCCCCCCCCC(=O)OCC(C*)O)O)(C)C,25.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372208.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCC(COC(=O)C1CCC(CC1)C(=O)OCC(C*)O)O)(C)C,70.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372209.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OCC(COC(=O)C1CCC(CC1)C(=O)OCC(C*)O)O,110.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372210.mol,*Oc1ccc(cc1)OCC(COC(=O)CCCCCCCCCCC(=O)OCC(C*)O)O,10.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372211.mol,*Oc1ccc(cc1)OCC(COC(=O)CCCCC(=O)OCC(C*)O)O,19.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372212.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F,181.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372213.mol,*C1COC2C1OCC2OC(=O)Oc1ccc(cc1)OC(=O)c1ccc(cc1)OC(=O)O*,112.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polycarbonates/thiocarbonates"
+P372256.mol,*OC(=O)c1cc(cc(c1)OCCCCCCOc1ccc(cc1)c1ccc(cc1)OC)C(=O)OCCOCCOCCOCCOCCOCC*,5.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372257.mol,*OC(=O)c1cc(ccc1)C(=O)OCCOCCOCCOCCOCCOCC*,-36.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372309.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCCCOc1ccc(cc1)C(=O)*)(C)C,77.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372310.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCCCOc1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F,89.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372311.mol,*Oc1c(cc(cc1Br)C(c1cc(c(c(c1)Br)OC(=O)c1ccc(cc1)OCCCCCCCCCCOc1ccc(cc1)C(=O)*)Br)(C)C)Br,128.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372312.mol,*Oc1c(cc(cc1Cl)C(c1cc(c(c(c1)Cl)OC(=O)c1ccc(cc1)OCCCCCCCCCCOc1ccc(cc1)C(=O)*)Cl)(C)C)Cl,140.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372390.mol,*C1COC2C1OCC2OC(=O)c1ccc(cc1)C(=O)O*,255.5,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372391.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCC,64.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372392.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCc1ccccc1,76.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372393.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCCCCCCCCCC,36.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372394.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCC,79.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372395.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCOCCOCC,27.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372396.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCCCC,45.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372397.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OC,82.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372398.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCCCCCC,40.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372399.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCC(C)C,72.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372400.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OC(C)C,80.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372405.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCC,53.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372406.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCCOCCOCC,18.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372407.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCCCCCC,28.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372408.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OC,63.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372409.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCCCCCCCC,16.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372410.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCC(C)C,50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372411.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OC(C)C,58.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372412.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OC(CC)C,44.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372413.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCC,66.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372414.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCCCC,46.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372415.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCC(=O)*)C(=O)OCCCCCCCC,51.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372416.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCC,50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372417.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCCCCCC,31.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372418.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)COCCOCC(=O)*)C(=O)OCCCCCCCC,23.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372454.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)Oc1ccc(cc1)OCC*)OCCCCC,95.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372527.mol,*c1c2ccc(=O)cc2oc2cc(ccc12)OC(=O)c1c(cccc1)*,250.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones"
+P372544.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)CCCC(=O)OCCO*)c1ccc(cc1)OC,57.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372545.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)CCCC(=O)OCCO*)c1ccc(cc1)OCCCC,46.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372546.mol,*c1nc(nc(c1c1ccc(cc1)OCCCC)OCCOC(=O)CCCC(=O)OCCO*)c1ccc(cc1)OCCCC,37.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372547.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)CCCCC(=O)OCCO*)c1ccc(cc1)OC,48.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372548.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)CCCCC(=O)OCCO*)c1ccc(cc1)OCCCC,34.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372549.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)c1ccc(cc1)C(=O)OCCO*)c1ccc(cc1)OCCCC,94.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372550.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)c1cc(ccc1)C(=O)OCCO*)c1ccc(cc1)OCCCC,92.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372551.mol,*OC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)OCCOCCOCC*,65.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372552.mol,*c1nc(nc(c1c1ccc(cc1)OC)OCCOC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)OCCO*)c1ccc(cc1)OCCCC,126.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372554.mol,*Oc1ccc(cc1)C=CC(=O)OCCN(CCOC(=O)C=Cc1ccc(cc1)OCCCCC*)c1ccc(cc1)N=Nc1ccc(cc1)[N+](=O)[O-],92.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372555.mol,*OC(=O)/C=C/C(=O)OCCOCC*,-13.13,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372575.mol,*O[Si](CCCCCCOC(=O)C(Oc1ccc(cc1)OC(=O)c1ccc(cc1)c1ccc(cc1)OCCCCCCCCCC[Si](*)(C)C)C)(C)C,35.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysiloxanes/silanes"
+P372576.mol,*O[Si](CCCCCCOC(=O)C(Oc1c(cc(cc1)OC(=O)c1ccc(cc1)c1ccc(cc1)OCCCCCCCCCC[Si](*)(C)C)[N+](=O)[O-])C)(C)C,20.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysiloxanes/silanes"
+P372591.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)Oc1ccc(cc1)Oc1c2c(c(cc1)c1c3c(c(cc1)Oc1ccc(cc1)Oc1ccc(cc1)*)cccc3)cccc2,198.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372623.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)O*)Cc1ccccc1)Cc1ccccc1,97.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372624.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCC(=O)NC(C(=O)O*)Cc1ccccc1)Cc1ccccc1,91.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372625.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)O*)Cc1ccccc1)Cc1ccccc1,74.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372626.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCCCC(=O)NC(C(=O)O*)Cc1ccccc1)Cc1ccccc1,76.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372627.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)O*)CC(C)C)CC(C)C,91.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372628.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)O*)CC(C)C)CC(C)C,89.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372629.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)O*)C(CC)C)C(CC)C,102.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372630.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)O*)C(CC)C)C(CC)C,91.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372631.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)O*)CCSC)CCSC,71.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372632.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)O*)CCSC)CCSC,61.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372652.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)Oc1ccc(cc1)OCCCC*)C(=O)OCC=C,56.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372656.mol,*O[Si](COC(=O)CCCCCCCCC(=O)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)Oc2ccc(cc2)S(=O)(=O)c2ccc(cc2)OC(=O)CCCCCCCCC(=O)OC[Si](*)(C)C)CC1)(C)C,73.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysiloxanes/silanes, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372657.mol,*O[Si](COC(=O)CCCCCCCCC(=O)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)Oc2ccc(cc2)S(=O)(=O)c2ccc(cc2)OC(=O)CCCCCCCCC(=O)OC[Si](*)(C)C)CCC1)(C)C,80.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysiloxanes/silanes, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372658.mol,*O[Si](COC(=O)CCCCCCCCC(=O)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)Oc2ccc(cc2)S(=O)(=O)c2ccc(cc2)OC(=O)CCCCCCCCC(=O)OC[Si](*)(C)C)CCCC1)(C)C,81.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysiloxanes/silanes, Polyketones/thioketones, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372672.mol,*Oc1c(ccc(c1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)C12CC3CC(CC(C1)C3)C2,180.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372673.mol,*Oc1cc(c(cc1)c1c(cc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)C)C,163.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372674.mol,*Oc1ccc(cc1)C1(C2CC3CC(CC1C3)C2)c1ccc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,197.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372675.mol,*Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)Oc1ccc(cc1)C1(CCC(CC1)c1ccccc1)c1ccc(cc1)OC(=O)c1ccc(cc1)*,172.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372676.mol,*Oc1ccc(cc1)C1(CCCCCCCCCCC1)c1ccc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,181.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372677.mol,*Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)*)(C)C,144.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372678.mol,*Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)*)C)(C)C)C,176.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372679.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)O*)C)C,56.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372680.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCC(=O)NC(C(=O)O*)C)C,45.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372681.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCC(=O)NC(C(=O)O*)C)C,57.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372682.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCC(=O)NC(C(=O)O*)C)C,46.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372683.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)O*)C)C,57.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372684.mol,*C1COC2C1OCC2OC(=O)C(NC(=O)CCCCCCCCCCC(=O)NC(C(=O)O*)C)C,28.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372685.mol,*C1COC2C1OCC2OC(=O)CNC(=O)CCCCCCCCC(=O)NCC(=O)O*,66.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372686.mol,*C1COC2C1OCC2OC(=O)CNC(=O)CNC(=O)CCCCCCCCC(=O)NCC(=O)NCC(=O)O*,47.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P372696.mol,*Oc1ccc(cc1)C1(C2C3C(CCC3)C(C1)C2)c1ccc(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,181.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372771.mol,*C1COC2C1OCC2OC(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)O*,98.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372775.mol,*C1COC2C1OCC2OC(=O)CCCCCCCCC(=O)O*,109.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372784.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OCC#CC#CC*)c1ccc(cc1)[N+](=O)[O-],100.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372785.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OCC#CC#CC*)c1ccc(cc1)N=Nc1ccc(cc1)C#N,121.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372786.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OCC#CC#CC*)c1ccc(cc1)N=Nc1ccc(cc1)[N+](=O)[O-],100.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372787.mol,*Oc1cc(ccc1)C(=O)OCCN(CCOC(=O)c1cc(ccc1)OCC#CC#CC*)c1ccc(cc1)N=Nc1ccc(cc1)C#N,50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372788.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OCC#CC#CC*)c1ccc(cc1)N=Nc1ccc(cc1)N=Nc1cc(c(c(c1)C)[N+](=O)[O-])C,115.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372789.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OCC#CC#CC*)c1ccc(cc1)N=Nc1ccc(cc1)N=Nc1cc(c(c(c1)C)C#N)C,120.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372829.mol,*C1(c2c(C(=O)O1)cccc2)c1cc(c(cc1)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1c(cc(cc1)*)C)C,245.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372830.mol,*C1(c2c(C(=O)O1)cccc2)c1c(cc(c(c1)C)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1c(cc(c(c1)C)*)C)C,269.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372831.mol,*C1(c2c(C(=O)O1)cccc2)c1c(cc(c(c1)C(C)C)Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)Oc1c(cc(c(c1)C)*)C(C)C)C,230.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P372854.mol,*Oc1c2c(c(cc1)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)cccc2,166.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372855.mol,*Oc1c2c(ccc1)c(ccc2)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,171.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372856.mol,*Oc1c2c(ccc1)cc(cc2)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,179.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372857.mol,*Oc1cc2c(cc1OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*)cccc2,148.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372858.mol,*Oc1cc2c(cc1)cc(cc2)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,145.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372859.mol,*Oc1cc2c(cc1)ccc(c2)OC(=O)c1ccc(cc1)Oc1ccc(cc1)C(=O)*,142.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372862.mol,*c1sc(nn1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)c1cc(ccc1)C(=O)OCCCCCCCCCCCOc1ccc(cc1)*,53.5,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372863.mol,*c1sc(nn1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCCCCCCCCOc1ccc(cc1)*,49.5,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372864.mol,*c1sc(nn1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)CCCCC(=O)OCCCCCCCCCCCOc1ccc(cc1)*,69.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372865.mol,*c1sc(nn1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCCCCCCCOc1ccc(cc1)*,52.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372866.mol,*c1sc(nn1)c1cc(ccc1)OCCCCCCCCCCCOC(=O)c1cc(ccc1)C(=O)OCCCCCCCCCCCOc1ccc(cc1)*,53.5,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372867.mol,*c1sc(nn1)c1cc(ccc1)OCCCCCCCCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCCCCCCCCOc1ccc(cc1)*,49.5,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372870.mol,*c1sc(nn1)c1cc(ccc1)OCCCCCCCCCCCOC(=O)c1cc(ccc1)C(=O)OCCCCCCCCCCCOc1cc(ccc1)*,15.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372871.mol,*c1sc(nn1)c1cc(ccc1)OCCCCCCCCCCCOC(=O)c1ccc(cc1)C(=O)OCCCCCCCCCCCOc1cc(ccc1)*,22.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P372876.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)/C=C\C(=O)OCC(C*)O)(C)C,32.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P372933.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCBr,7.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372934.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCCCCCCBr,16.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372935.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCP(=O)(OCC)OCC,11.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372936.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCP(=O)(O)O,11.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372937.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCP(=O)(OCC)OCC,12.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372938.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCP(=O)(O)O,12.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372939.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCCP(=O)(OCC)OCC,15.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372940.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCCP(=O)(O)O,15.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372941.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCCCCCCP(=O)(OCC)OCC,12.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372942.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCCCCCCP(=O)(O)O,12.5,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372943.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)CC(=O)OCCCCCC*,16.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372944.mol,*Oc1ccc(cc1)N1ON1c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)c1ccccc1,23.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372974.mol,*O[Si](CCCC(=O)Oc1ccc(cc1)C=Nc1ccc(cc1)Oc1ccc(cc1)N=Cc1ccc(cc1)OC(=O)CCC[Si](*)(C)C)(C)C,52.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polysiloxanes/silanes"
+P372977.mol,*OP(=O)(N=Nc1ccc(cc1)COC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCc1ccc(cc1)N=NP(=O)(OCC*)OC)OC,105.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyurethanes/thiourethanes"
+P372978.mol,*OP(=O)(N=Nc1ccc(cc1)CCOC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCCc1ccc(cc1)N=NP(=O)(OCC*)OC)OC,84.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyurethanes/thiourethanes"
+P372979.mol,*OP(=O)(N=Nc1ccc(cc1)COC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCc1ccc(cc1)N=NP(=O)(OCCCCCC*)OC)OC,62.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P372980.mol,*OP(=O)(N=Nc1ccc(cc1)CCOC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCCc1ccc(cc1)N=NP(=O)(OCCCCCC*)OC)OC,47.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373038.mol,*Oc1ccc(cc1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)c1cc(cc(c1)OCCCCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)OC)C(=O)OCCCCCCCCCCC*,60.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373040.mol,*Oc1ccc(cc1)c1ccc(cc1)OCCCCCCCCCCCOC(=O)c1cc(cc(c1)OCCCCCCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)OC)C(=O)OCCCCCCCCCCC*,53.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373156.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)OCC(COC(=O)CCCCC(=O)OCC(C*)O)O)C,33.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373157.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)OCC(COC(=O)CCCCCCCCC(=O)OCC(C*)O)O)C,30.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373158.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)OCC(COC(=O)CCCCC(=O)OCC(C*)O)O,37.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373159.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)OCC(COC(=O)CCCCCCCCC(=O)OCC(C*)O)O,36.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373188.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OCCOC(=O)C1CCC(CC1)C(=O)OCC*,148.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373190.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OCCOC(=O)C1CCC(CC1)C(=O)OCC*)(C)C,57.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373250.mol,*Oc1ccc(cc1)c1ccc(cc1)C(=O)OCC(COC(=O)c1ccc(cc1)c1ccc(cc1)OC(CC*)C)C,88.33,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373319.mol,*C1COC2C1OCC2OC(=O)CCCCC(=O)OC1COC2C1OCC2OCCCCO*,114.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373321.mol,*Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F,215.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373322.mol,*Oc1ccc(cc1)Oc1ccc(cc1)OC(=O)c1c(cccc1)c1c(cccc1)C(=O)*,147.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373421.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)OCCCCCCCCCCCCOc1ccc(cc1)C(=O)*)C=Cc1ccncc1,91.35,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373470.mol,*Oc1cc(c(cc1)OC(COCCCCCCCOc1ccc(cc1)c1ccc(cc1)C(=O)*)C)[N+](=O)[O-],50.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373500.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCOC(=O)c2ccc(cc2)*)CCC1,71.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373501.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCCCOC(=O)c2ccc(cc2)*)CCC1,59.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373504.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCCCOC(=O)c2ccc(cc2)*)CC1,99.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373505.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCCCCCOC(=O)c2ccc(cc2)*)CC1,58.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373527.mol,*Oc1ccc(cc1)C(=O)OCCN(CCOC(=O)c1ccc(cc1)OC1(C(C(C1(F)F)(F)F)(*)F)F)c1ccc(cc1)C=CC1=CC(=C(C#N)C#N)CC(C1)(C)C,143.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373581.mol,*OC(OC(=O)c1cc(ccc1)C(=O)OC(OCC1CCC(CC1)C*)C)C,30.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373583.mol,*OC(OC(=O)c1c2c(c(cc1)C(=O)OC(OCC1CCC(CC1)C*)C)cccc2)C,60.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373584.mol,*OC(OC(=O)c1ccc(cc1)C(=O)OC(OCC1CCC(CC1)C*)C)C,61.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373611.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,226.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373636.mol,*OC(=O)C=CC(=O)NCCCCCCNC(=O)C=CC(=O)OCCOCC*,76.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373637.mol,*OC(=O)C=CC(=O)NCCCCCCNC(=O)C=CC(=O)OCCOCCOCC*,65.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373638.mol,*OC(=O)C=CC(=O)NCCCCCCNC(=O)C=CC(=O)OCCOCCOCCOCC*,52.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373661.mol,*C1COC2C1OCC2OC(=O)C1CCC(CC1)C(=O)O*,121.86,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373662.mol,*C1COC2C1OCC2OC(=O)CCC(=O)O*,77.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373664.mol,*C1COC2C1OCC2OC(=O)C=CC(=O)O*,52.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373674.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCOc1ccc(cc1)C=CC(=O)C=Cc1ccc(cc1)OCCCCCCOC(=O)c1ccc(cc1)*,62.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373675.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCOc1ccc(cc1)C=CC(=O)C=Cc1ccc(cc1)OCCCCCCCCOC(=O)c1ccc(cc1)*,59.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373676.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCCOc1ccc(cc1)C=CC(=O)C=Cc1ccc(cc1)OCCCCCCCCCCOC(=O)c1ccc(cc1)*,58.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373677.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCOC(=O)c2ccc(cc2)*)CCCC1,104.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373678.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCCCOC(=O)c2ccc(cc2)*)CCCC1,98.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373679.mol,*c1oc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCCOc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OCCCCCCCCCCOC(=O)c2ccc(cc2)*)CCCC1,74.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P373688.mol,*c1cc2c(cc1)oc(=O)c(c2)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(cc2)C*)c1,312.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373689.mol,*c1cc2c(cc1)oc(=O)c(c2)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)Oc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(cc2)C*)c1,290.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373690.mol,*c1cc2c(cc1)oc(=O)c(c2)C(=O)Nc1ccc(cc1)Oc1ccc(cc1)C(c1ccc(cc1)Oc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(cc2)C*)c1)(C(F)(F)F)C(F)(F)F,283.0,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyamides/thioamides"
+P373692.mol,*c1sc(cc1)C=Nc1ccc(cc1)C(=O)OCCCCOCCCCOCCCCOC(=O)c1ccc(cc1)N=C*,25.0,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P373693.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=Nc1ccc(cc1)C(=O)OCCCCOCCCCOCCCCOC(=O)c1ccc(cc1)N=C*)CC(CCCC)CC,5.2,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373694.mol,*OC(=O)c1ccc(cc1)N=Cc1c(cc(c(c1)OCCCCCC)C=Cc1c(cc(c(c1)OCCCCCC)C=Cc1c(cc(c(c1)OCCCCCC)C=Nc1ccc(cc1)C(=O)OCCCCOCCCCOCCCC*)OCCCCCC)OCCCCCC)OCCCCCC,14.3,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373695.mol,*OC(=O)c1ccc(cc1)N=Cc1ccc(cc1)C=Nc1ccc(cc1)C(=O)OCCCCOCCCCOCCCC*,-13.2,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373696.mol,*OC(=O)c1ccc(cc1)N=Cc1c(cc(c(c1)OCCC(CCCC(C)C)C)C=Nc1ccc(cc1)C(=O)OCCCCOCCCCOCCCC*)OCCC(CCCC(C)C)C,-4.8,"Polyoxides/ethers/acetals, Polyesters/thioesters, Polyimines"
+P373714.mol,*OC(=O)C1CCC(CC1)C(=O)OCCOCCOCC*,-25.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373740.mol,*OC(C(=O)OCCC*)C,-33.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373765.mol,*C1COC2C1OCC2OC(=O)c1cc(ccc1)OCCCCCCOc1cc(ccc1)C(=O)O*,42.25,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373766.mol,*C1COC2C1OCC2OC(=O)c1cc(ccc1)OCCCCCCCCOc1cc(ccc1)C(=O)O*,31.75,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373767.mol,*C1COC2C1OCC2OC(=O)c1cc(ccc1)OCCCCCCCCCCOc1cc(ccc1)C(=O)O*,28.25,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373808.mol,*Oc1ccc(cc1)c1ccc(cc1)OCCCCCCOC(=O)C(C(=O)OCCCCCC*)CCCCCOc1cc(nc(c1)c1ncccc1)c1ncccc1,49.9,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P373833.mol,*OCCCCCCCCCCCOc1ccc2c(sc(n2)c2ccc(cc2)OCCCCCCCCCCCOC(=O)c2cc(cc(c2)C(=O)*)C(=O)*)c1,37.12,"Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters, Polyimines"
+P373848.mol,*OC(C(=O)OCC*)C,-21.0,"Polyoxides/ethers/acetals, Polyesters/thioesters"
+P382033.mol,*OC(=O)CCSCCC(=O)OCC*,-47.0,"Polysulfides, Polyesters/thioesters"
+P382134.mol,*c1sc(nn1)c1ccc(cc1)C(=O)OCCCCCCOC(=O)c1ccc(cc1)*,125.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382135.mol,*c1sc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCOC(=O)c1ccc(cc1)*,86.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382136.mol,*c1sc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCOC(=O)c1ccc(cc1)*,72.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382137.mol,*c1sc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCCOC(=O)c1ccc(cc1)*,79.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382138.mol,*c1sc(nn1)c1ccc(cc1)C(=O)OCCCCCCCCCCCCOC(=O)c1ccc(cc1)*,68.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382296.mol,*c1sc(cc1)C(=O)OC(COC(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,119.0,"Polysulfides, Polyesters/thioesters"
+P382387.mol,*c1sc(nn1)c1ccc(cc1)OC(=O)CCCCCCCCC(=O)Oc1cc(ccc1)C=C*,55.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382388.mol,*c1sc(nn1)c1cc(ccc1)OC(=O)CCCCCCCCC(=O)Oc1ccc(cc1)C=C*,37.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382389.mol,*c1sc(nn1)c1ccc(cc1)OC(=O)CCCCCCCCC(=O)Oc1ccc(cc1)C=C*,30.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382393.mol,*c1sc(nn1)c1cc(ccc1)OC(=O)CCCCCCCCC(=O)Oc1cc(ccc1)C=C*,41.0,"Polysulfides, Polyesters/thioesters, Polyimines"
+P382395.mol,*OC(=O)CCSCCCCCCSCCC(=O)OCCCC*,-74.6,"Polysulfides, Polyesters/thioesters"
+P382492.mol,*OC(=O)CCC(=O)OCCSCC*,-34.0,"Polysulfides, Polyesters/thioesters"
+P382498.mol,*c1sc(cc1)C(=O)Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)*)(C)C,-68.0,"Polysulfides, Polyesters/thioesters, Polysiloxanes/silanes"
+P382499.mol,*c1sc(cc1)C(=O)Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)*)(CC)C,-51.0,"Polysulfides, Polyesters/thioesters, Polysiloxanes/silanes"
+P382500.mol,*c1sc(cc1)C(=O)Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)*)(CC)CC,-62.0,"Polysulfides, Polyesters/thioesters, Polysiloxanes/silanes"
+P382501.mol,*c1sc(cc1)C(=O)Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)*)(c1ccccc1)C,-71.0,"Polysulfides, Polyesters/thioesters, Polysiloxanes/silanes"
+P382502.mol,*c1sc(cc1)C(=O)Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)*)(c1ccccc1)c1ccccc1,-78.0,"Polysulfides, Polyesters/thioesters, Polysiloxanes/silanes"
+P390004.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C)C)(C)C,227.5,Polyesters/thioesters
+P390005.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)Cc1ccc(cc1)C(=O)*)(C)C,187.5,Polyesters/thioesters
+P390006.mol,*Oc1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,185.0,Polyesters/thioesters
+P390007.mol,*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)c1cc(cc(c1)CCCCC)C(=O)*,170.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390008.mol,*OS(=O)(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)*)(C)C,133.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390009.mol,*OC(=O)c1cc(ccc1)C(=O)OCCN(CC*)c1ccccc1,60.0,"Polyesters/thioesters, Polyimines"
+P390011.mol,*Oc1ccc(cc1)C1(CCCCC1)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,275.0,Polyesters/thioesters
+P390012.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)(CC)c1ccccc1,88.0,Polyesters/thioesters
+P390013.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(CC)c1ccccc1,243.0,Polyesters/thioesters
+P390015.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(c1ccccc1)c1ccccc1,210.0,Polyesters/thioesters
+P390018.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCC(=O)*,234.0,Polyesters/thioesters
+P390019.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCC(=O)*,207.0,Polyesters/thioesters
+P390020.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCC(=O)*,166.0,Polyesters/thioesters
+P390021.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCCCC(=O)*,158.0,Polyesters/thioesters
+P390022.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCCCCC(=O)*,150.0,Polyesters/thioesters
+P390023.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCCCCCCC(=O)*,136.0,Polyesters/thioesters
+P390024.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)CCCCCCCCCCC(=O)*,117.0,Polyesters/thioesters
+P390031.mol,*Oc1ccc(cc1)C1(c2ccccc2C(=O)c2ccccc12)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,400.0,"Polyesters/thioesters, Polyketones/thioketones"
+P390033.mol,*Oc1ccc(cc1)C1(c2ccccc2Cc2ccccc12)c1ccc(cc1)OC(=O)CCCCCCCCC(=O)*,134.0,Polyesters/thioesters
+P390034.mol,*Oc1ccc(cc1)C1(c2ccccc2Cc2ccccc12)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,342.0,Polyesters/thioesters
+P390035.mol,*OC(=O)CCCCC(=O)OCC(CC(CC*)(C)C)C,-70.0,Polyesters/thioesters
+P390036.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(CC(CC*)(C)C)C,-12.0,Polyesters/thioesters
+P390037.mol,*OC(=O)CCCCCCCCC(=O)OC/C=C/C*,-40.0,Polyesters/thioesters
+P390038.mol,*OC(=O)CCCCCCCCC(=O)OC/C=C\C*,-41.0,Polyesters/thioesters
+P390039.mol,*O[Sn](OC(=O)/C=C/C(=O)*)(CCCC)CCCC,186.0,Polyesters/thioesters
+P390040.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(CC)CC,165.0,Polyesters/thioesters
+P390045.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)(c1ccccc1)C,202.0,Polyesters/thioesters
+P390046.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)(c1ccccc1)c1ccccc1,229.0,Polyesters/thioesters
+P390050.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)c1ccc(cc1)C(=O)*)(C)C,194.0,"Polyesters/thioesters, Polyketones/thioketones"
+P390051.mol,*Oc1ccc(cc1)C(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C)C,126.0,"Polyesters/thioesters, Polyketones/thioketones"
+P390052.mol,*Oc1ccc(cc1)Cc1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C)C,135.0,Polyesters/thioesters
+P390055.mol,*OC(=O)c1ccc(cc1)C(=O)OCC1CC(CC(C1)C(C)(C)C)C*,118.0,Polyesters/thioesters
+P390056.mol,*OC(=O)c1ccc(cc1)C(=O)OCC1CC(CCC1)C*,75.0,Polyesters/thioesters
+P390058.mol,*OC(=O)c1ccc(cc1)CC(=O)OCC*,24.0,Polyesters/thioesters
+P390059.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)CC(=O)*)(C)C,85.0,Polyesters/thioesters
+P390060.mol,*OC(=O)c1ccc(cc1)CC(=O)OCc1ccc(cc1)C*,47.0,Polyesters/thioesters
+P390061.mol,*OC(=O)c1ccc(cc1)CC(=O)OCC(C*)(C)C,33.0,Polyesters/thioesters
+P390062.mol,*OC(=O)c1c(cccc1)C(=O)OCCCCCCCCCC*,-14.0,Polyesters/thioesters
+P390071.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CC(CCC(=O)*)C)(C)C,56.0,Polyesters/thioesters
+P390072.mol,*Oc1c(cc(cc1)C(c1cc(c(cc1)OC(=O)CCCCC(=O)*)C)(C)C)C,33.5,Polyesters/thioesters
+P390134.mol,*OC(=O)CCCCCCCCC(=O)OCC(C*)(CC)C,-69.0,Polyesters/thioesters
+P390135.mol,*OC(CCC(OC(=O)CCCCCCCCC(=O)*)C)C,-66.0,Polyesters/thioesters
+P390184.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCCCCCC*,-9.0,Polyesters/thioesters
+P390192.mol,*Oc1c(cc(cc1)C1(c2ccccc2c2ccccc12)c1cc(c(cc1)OC(=O)c1cc(ccc1)C(=O)*)C)C,287.0,Polyesters/thioesters
+P390193.mol,*Oc1c(cc(cc1C)C1(c2ccccc2c2ccccc12)c1cc(c(c(c1)C)OC(=O)c1cc(ccc1)C(=O)*)C)C,315.0,Polyesters/thioesters
+P390201.mol,*OC(=O)/C=C\C(=O)OCCCC*,-19.33,Polyesters/thioesters
+P390202.mol,*OC(=O)/C=C/C(=O)OCCCC*,93.0,Polyesters/thioesters
+P390203.mol,*Oc1cc2c(C(CC2(c2ccc(cc2)OC(=O)c2cc(ccc2)C(=O)*)C)(C)C)cc1,230.5,Polyesters/thioesters
+P390204.mol,*Oc1cc2c(C(CC2(c2ccc(cc2)OC(=O)c2ccc(cc2)C(=O)*)C)(C)C)cc1,252.5,Polyesters/thioesters
+P390214.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)C(=O)NNC(=O)c1ccc(cc1)C(=O)NNC(=O)c1ccc(cc1)*,237.0,"Polyesters/thioesters, Polyamides/thioamides"
+P390216.mol,*Oc1c(cc(cc1OC)c1cc(c(c(c1)OC)OC(=O)c1cc(ccc1)C(=O)*)OC)OC,252.0,Polyesters/thioesters
+P390217.mol,*Oc1c(cc(cc1OC)c1cc(c(c(c1)OC)OC(=O)CCCCCCCCC(=O)*)OC)OC,94.0,Polyesters/thioesters
+P390218.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,267.0,Polyesters/thioesters
+P390219.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1cc2c(cc1)cccc2,102.0,Polyesters/thioesters
+P390220.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1cc2c(cc1)cccc2,148.0,Polyesters/thioesters
+P390221.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1cc2c(cc1)cccc2,141.0,Polyesters/thioesters
+P390222.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1ccccc1,181.0,Polyesters/thioesters
+P390223.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1ccc(cc1)C,134.0,Polyesters/thioesters
+P390224.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1ccc(cc1)Cl,140.0,Polyesters/thioesters
+P390225.mol,*OC(CC(=O)*)(C)C(F)(F)F,26.2,Polyesters/thioesters
+P390226.mol,*OC(CCOC(=O)C(C(=O)*)CCCCCCOc1ccc(cc1)N=Cc1ccc(cc1)[N+](=O)[O-])C,3.0,Polyesters/thioesters
+P390227.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1ccccc1)C,130.0,Polyesters/thioesters
+P390228.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Sc1ccccc1)c1ccccc1,130.0,Polyesters/thioesters
+P390233.mol,*OC(C(=O)OCC(=O)*)C,43.0,Polyesters/thioesters
+P390234.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1,168.0,Polyesters/thioesters
+P390235.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1,140.0,Polyesters/thioesters
+P390236.mol,*Oc1c2c(c(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1)cccc2,165.0,Polyesters/thioesters
+P390237.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1)C,133.0,Polyesters/thioesters
+P390238.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1)c1ccccc1,148.0,Polyesters/thioesters
+P390239.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1)C(c1ccccc1)(C)C,146.0,Polyesters/thioesters
+P390240.mol,*Oc1cc2c(cc1)cc(cc2)OC(=O)c1c(cc(cc1)c1ccc(cc1)C(=O)*)c1ccccc1,125.0,Polyesters/thioesters
+P390242.mol,*OC(CC(=O)*)COc1ccccc1,20.0,Polyesters/thioesters
+P390243.mol,*OC(CC(=O)*)CCOc1ccccc1,20.0,Polyesters/thioesters
+P390244.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1c(cccc1)c1c(cccc1)C(=O)*)(C)C,154.5,Polyesters/thioesters
+P390245.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C*)(CC)C,60.83,Polyesters/thioesters
+P390257.mol,*OC(CC(=O)*)CCCCCCC=C,-50.0,Polyesters/thioesters
+P390258.mol,*OC(CC(=O)*)CCc1ccccc1,14.5,Polyesters/thioesters
+P390259.mol,*OC(CC(=O)*)CCCCC,-34.5,Polyesters/thioesters
+P390281.mol,*Oc1ccc(cc1)C(=O)OCCCCCCCOC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,65.0,Polyesters/thioesters
+P390284.mol,*Oc1ccc(cc1)OC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)C(=O)*,283.0,Polyesters/thioesters
+P390312.mol,*Oc1c(cc(cc1)C(=O)*)CCCCC,50.0,Polyesters/thioesters
+P390319.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCC*,180.0,Polyesters/thioesters
+P390320.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCC*,180.0,Polyesters/thioesters
+P390321.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCC*,40.0,Polyesters/thioesters
+P390322.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCC*,60.0,Polyesters/thioesters
+P390323.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCCCCC*,50.0,Polyesters/thioesters
+P390324.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCC(C*)(CC)CC,-20.0,Polyesters/thioesters
+P390325.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)c1ccc(cc1)C(=O)OCC(C*)(C)C,100.0,Polyesters/thioesters
+P390326.mol,*OC(=O)c1ccc(cc1)C=Cc1ccc(cc1)C(=O)OCCCCC*,60.0,Polyesters/thioesters
+P390329.mol,*OC(=O)c1ccc(cc1)C=Cc1ccc(cc1)C(=O)OCC(C*)(C)C,80.0,Polyesters/thioesters
+P390332.mol,*OC(=O)c1c(cccc1)C(=O)OCCCS(=O)(=O)CCCCS(=O)(=O)CCC*,49.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390333.mol,*OC(=O)c1c(cccc1)C(=O)OCCCS(=O)(=O)CCCS(=O)(=O)CCC*,52.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390334.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCS(=O)(=O)CCCCS(=O)(=O)CCC*,65.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390335.mol,*OC(=O)c1cc(ccc1)C(=O)OCCCS(=O)(=O)CCCS(=O)(=O)CCC*,67.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390338.mol,*OC(=O)c1ccc(cc1)C(=O)OCC#CC#CC*,143.0,Polyesters/thioesters
+P390342.mol,*OC(=O)CC(CC*)C,-71.5,Polyesters/thioesters
+P390363.mol,*N1CCN(CC1)C(=O)OCCOC(=O)c1ccc(cc1)C(=O)OCCOC(=O)*,53.0,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P390365.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccccc1,105.0,Polyesters/thioesters
+P390366.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)Cl,107.0,Polyesters/thioesters
+P390367.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)c1ccccc1,112.5,Polyesters/thioesters
+P390375.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)Br,112.5,Polyesters/thioesters
+P390376.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)F,106.0,Polyesters/thioesters
+P390377.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)C(c1ccccc1)(C)C,93.0,Polyesters/thioesters
+P390378.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)Oc1ccccc1,83.0,Polyesters/thioesters
+P390379.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(cc1)C(=O)*)Oc1ccc(cc1)C1CCCCC1,113.0,Polyesters/thioesters
+P390380.mol,*Oc1ccc(cc1)OC(=O)Oc1ccc(cc1)C(=O)*,74.0,"Polyesters/thioesters, Polycarbonates/thiocarbonates"
+P390393.mol,*OC1CCC(CC1)OC(=O)C(=O)*,139.6,Polyesters/thioesters
+P390399.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCC)C(=O)*)OCCCCCC,113.0,Polyesters/thioesters
+P390400.mol,*Oc1ccc(cc1)C(=O)Nc1ccc(cc1)C(c1ccc(cc1)NC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F,266.0,"Polyesters/thioesters, Polyamides/thioamides"
+P390401.mol,*Oc1ccc(cc1)C(=O)Nc1ccc(cc1)C(c1ccc(cc1)NC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)(C(F)(F)F)C(F)(F)F,227.0,"Polyesters/thioesters, Polyamides/thioamides"
+P390402.mol,*Oc1ccc(cc1)C(=O)Nc1c(ccc(c1)C(c1cc(c(cc1)C)NC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F)C,213.0,"Polyesters/thioesters, Polyamides/thioamides"
+P390403.mol,*Oc1ccc(cc1)C(=O)Nc1c(ccc(c1)C(c1cc(c(cc1)C)NC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)(C(F)(F)F)C(F)(F)F)C,214.0,"Polyesters/thioesters, Polyamides/thioamides"
+P390404.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc2c(C(CC2(c2ccc(cc2)C(=O)*)C)(C)C)cc1)(C)C,265.0,Polyesters/thioesters
+P390405.mol,*Oc1ccc(cc1)C1(C2C3C(CCC3)C(C1)C2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,322.0,Polyesters/thioesters
+P390411.mol,*Oc1c(cc(cc1Br)C(c1cc(c(c(c1)Br)OC(=O)c1cc(ccc1)C(=O)*)Br)(C)C)Br,115.0,Polyesters/thioesters
+P390414.mol,*C1(c2c(C(=O)O1)cccc2)c1cc(c(c(c1)Br)OC(=O)c1ccc(cc1)C(=O)Oc1c(cc(cc1Br)*)Br)Br,319.0,Polyesters/thioesters
+P390415.mol,*OC(=O)CCCCCN(c1ccc(cc1)N=Nc1ccc(cc1)S(=O)(=O)CCCCCC*)C,60.5,"Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390416.mol,*OC(=O)CN(c1ccc(cc1)N=Nc1ccc(cc1)S(=O)(=O)CCC*)CCCC,92.4,"Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P390426.mol,*Oc1ccc(cc1)C=C1C(=O)C(=Cc2ccc(cc2)OC(=O)c2ccc(cc2)N=Cc2ccc(cc2)C=Nc2ccc(cc2)C(=O)*)CC1,205.0,"Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P390427.mol,*Oc1c(cc(cc1)C=C1C(=O)C(=Cc2cc(c(cc2)OC(=O)c2ccc(cc2)N=Cc2ccc(cc2)C=Nc2ccc(cc2)C(=O)*)OC)CC1)OC,140.0,"Polyesters/thioesters, Polyimines, Polyketones/thioketones"
+P390430.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1c(cccc1)c1c(cccc1)C(=O)*)(c1ccccc1)C,172.0,Polyesters/thioesters
+P392033.mol,*OC(=O)CCCCCCCCCCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)C#N,21.5,Polyesters/thioesters
+P392038.mol,*Oc1ccc(cc1)C1(c2cc(ccc2c2ccc(cc12)[N+](=O)[O-])N(C)C)c1ccc(cc1)OC(=O)CCC(=O)*,215.0,Polyesters/thioesters
+P392039.mol,*Oc1ccc(cc1)C1(c2cc(ccc2c2ccc(cc12)[N+](=O)[O-])N(C)C)c1ccc(cc1)OC(=O)CCCC(=O)*,181.0,Polyesters/thioesters
+P392040.mol,*Oc1ccc(cc1)C1(c2cc(ccc2c2ccc(cc12)[N+](=O)[O-])N(C)C)c1ccc(cc1)OC(=O)CCCCC(=O)*,150.0,Polyesters/thioesters
+P392041.mol,*Oc1ccc(cc1)C1(c2cc(ccc2c2ccc(cc12)[N+](=O)[O-])OC)c1ccc(cc1)OC(=O)CCC(=O)*,230.0,Polyesters/thioesters
+P392042.mol,*Oc1ccc(cc1)C1(c2cc(ccc2c2ccc(cc12)[N+](=O)[O-])OC)c1ccc(cc1)OC(=O)CCCC(=O)*,197.0,Polyesters/thioesters
+P392043.mol,*Oc1c(cc(c(c1)C(c1ccccc1)(C)C)OC(=O)c1cc(ccc1)C(=O)*)C(c1ccccc1)(C)C,180.0,Polyesters/thioesters
+P392044.mol,*Oc1c(cc(c(c1)C(c1ccccc1)(C)C)OC(=O)c1ccc(cc1)C(=O)*)C(c1ccccc1)(C)C,170.0,Polyesters/thioesters
+P392045.mol,*Oc1cc2c(C(CC32CC(c2ccc(cc32)OC(=O)c2ccc(cc2)C(=O)*)(C)C)(C)C)cc1,290.0,Polyesters/thioesters
+P392046.mol,*Oc1cc2c(C(CC32CC(c2ccc(cc32)OC(=O)c2cc(ccc2)C(=O)*)(C)C)(C)C)cc1,245.0,Polyesters/thioesters
+P392056.mol,*Oc1c(cc(cc1)C=C1C(=O)C(=Cc2cc(c(cc2)OC(=O)c2cc(ccc2)C(=O)*)OC)CCC1)OC,57.86,"Polyesters/thioesters, Polyketones/thioketones"
+P392059.mol,*Oc1c(cc(cc1)C=C1C(=O)C(=Cc2cc(c(cc2)OC(=O)CCCCCCCCC(=O)*)OC)CCC1)OC,48.05,"Polyesters/thioesters, Polyketones/thioketones"
+P392068.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCC,58.8,"Polyesters/thioesters, Polyamides/thioamides"
+P392069.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCCCC,35.57,"Polyesters/thioesters, Polyamides/thioamides"
+P392070.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCCCCCC,26.2,"Polyesters/thioesters, Polyamides/thioamides"
+P392071.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCCCC,51.2,"Polyesters/thioesters, Polyamides/thioamides"
+P392072.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCCCC,19.46,"Polyesters/thioesters, Polyamides/thioamides"
+P392077.mol,*OC(=O)c1ccc(cc1)N=CNc1ccc(cc1)C(=O)OCCCC*,91.0,"Polyesters/thioesters, Polyimines"
+P392078.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C)(C)C,180.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P392079.mol,*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C,235.0,"Polyesters/thioesters, Polysiloxanes/silanes, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392080.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)Oc1ccc(cc1)*)(C)C,214.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P392081.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(c1ccccc1)c1ccccc1)(C)C,295.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P392082.mol,*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(c1ccccc1)c1ccccc1,250.0,"Polyesters/thioesters, Polysiloxanes/silanes, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392083.mol,*C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)Oc1ccc(cc1)*)(c1ccccc1)c1ccccc1,250.0,"Polyesters/thioesters, Polysiloxanes/silanes"
+P392084.mol,*Oc1ccc(cc1)NC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C,220.0,"Polyesters/thioesters, Polyamides/thioamides, Polysiloxanes/silanes"
+P392085.mol,*Oc1cc(ccc1)NC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(C)C,220.0,"Polyesters/thioesters, Polyamides/thioamides, Polysiloxanes/silanes"
+P392086.mol,*Oc1ccc(cc1)NC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(c1ccccc1)c1ccccc1,235.0,"Polyesters/thioesters, Polyamides/thioamides, Polysiloxanes/silanes"
+P392087.mol,*Oc1cc(ccc1)NC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)*)(c1ccccc1)c1ccccc1,220.0,"Polyesters/thioesters, Polyamides/thioamides, Polysiloxanes/silanes"
+P392090.mol,*Oc1cc(ccc1)OC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)C(=O)*,156.75,Polyesters/thioesters
+P392092.mol,*c1ncc(cc1)C(=O)Oc1ccc(cc1)C(=O)Oc1cc(ccc1)OC(=O)c1ccc(cc1)OC(=O)*,110.0,"Polyesters/thioesters, Polyimines"
+P392093.mol,*C1(c2c(C(=O)N1c1ccccc1)cccc2)c1ccc(cc1)OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)Oc1ccc(cc1)*)(C)C,255.0,"Polyesters/thioesters, Polyamides/thioamides, Polysiloxanes/silanes"
+P392096.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(c(c1)OCCCc1ccccc1)C(=O)*)OCCCc1ccccc1)C,91.0,Polyesters/thioesters
+P392097.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCc1ccccc1)C(=O)*)OCCCc1ccccc1,72.0,Polyesters/thioesters
+P392098.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCCCCCC)C(=O)*)OCCCCCCCCCCCC)C,112.0,Polyesters/thioesters
+P392099.mol,*Oc1c(cc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCCCCCC)C(=O)*)OCCCCCCCCCCCC)c1ccccc1,96.0,Polyesters/thioesters
+P392100.mol,*Oc1ccc(cc1)C(=O)OC(COC(=O)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C,87.0,Polyesters/thioesters
+P392102.mol,*Oc1c(cc(cc1)c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)c1ccc(cc1)C(=O)*)c1ccccc1)c1ccccc1,184.5,"Polyesters/thioesters, Polyketones/thioketones"
+P392103.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F)(C)C,124.0,Polyesters/thioesters
+P392104.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(c1ccc(cc1)C(=O)*)(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F,135.0,Polyesters/thioesters
+P392105.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCC,78.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392106.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCC,67.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392107.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCCCCCC,46.75,"Polyesters/thioesters, Polyamides/thioamides"
+P392108.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCC,45.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392109.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCC,50.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392110.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCC,37.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392111.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCCCC,26.45,"Polyesters/thioesters, Polyamides/thioamides"
+P392112.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCCCCCC,21.33,"Polyesters/thioesters, Polyamides/thioamides"
+P392113.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCC,44.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392114.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCC,30.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392115.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCCCCCC,14.25,"Polyesters/thioesters, Polyamides/thioamides"
+P392116.mol,*c1nc(ccc1)C=Cc1c2c(ccc1OC(=O)c1ccc(cc1)C(=O)Oc1c(c3c(cc1)cccc3)C=C*)cccc2,145.0,"Polyesters/thioesters, Polyimines"
+P392117.mol,*c1nc2c(cc1)cccc2OC(=O)c1ccc(cc1)C(=O)Oc1c(c2c(cc1)cccc2)C=C*,175.0,"Polyesters/thioesters, Polyimines"
+P392118.mol,*c1nc2c(cc1)cccc2OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)C=C*,112.0,"Polyesters/thioesters, Polyimines"
+P392119.mol,*OC(=O)c1ccc(cc1)[Si](c1ccc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)C=Cc1ccc(cc1)[N+](=O)[O-])(C)C,127.0,"Polyesters/thioesters, Polyimines, Polysiloxanes/silanes"
+P392120.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OC,91.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392121.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCCCCCCCCCC,40.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392122.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OC,76.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392123.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCC,67.67,"Polyesters/thioesters, Polyamides/thioamides"
+P392124.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCC,53.67,"Polyesters/thioesters, Polyamides/thioamides"
+P392125.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCCCC,43.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392126.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCCCCCC,32.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392127.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCCCCCCCCCC,27.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392128.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OC,68.67,"Polyesters/thioesters, Polyamides/thioamides"
+P392129.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCCCCCCCCCC,22.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392130.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OC,55.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392131.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCCCCCCCCCC,15.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392132.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OC,46.33,"Polyesters/thioesters, Polyamides/thioamides"
+P392133.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCCCCCCCCCC,12.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392135.mol,*OC(=O)CCCCC(=O)OCCN(CC*)c1ccc(cc1)C=NN(c1ccccc1)c1ccccc1,54.0,"Polyesters/thioesters, Polyimines"
+P392153.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCCCC*,43.75,Polyesters/thioesters
+P392154.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCCCCCC*,42.5,Polyesters/thioesters
+P392155.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCCCCCCCCCCCC*,42.75,Polyesters/thioesters
+P392156.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCC*,44.25,Polyesters/thioesters
+P392157.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCCC*,53.0,Polyesters/thioesters
+P392158.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCCCC*,43.5,Polyesters/thioesters
+P392159.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCCCCCC*,39.0,Polyesters/thioesters
+P392160.mol,*OC(=O)c1cc2c(cc1)cc(cc2)C(=O)OCCCCCCCCCCCC*,38.5,Polyesters/thioesters
+P392166.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C1CCCCCCC1,213.0,Polyesters/thioesters
+P392169.mol,*OC(=O)C(NC(=O)C*)C,54.6,"Polyesters/thioesters, Polyamides/thioamides"
+P392170.mol,*OC(C(=O)NC(C(=O)*)C)C,57.65,"Polyesters/thioesters, Polyamides/thioamides"
+P392176.mol,*Oc1cc(c(cc1)c1c(cc(cc1)OC(=O)c1cc(c(cc1)c1c(cc(cc1)C(=O)*)C(F)(F)F)C(F)(F)F)C(=O)OCCCCCCCCCCCOc1ccc(cc1)c1ccc(cc1)C#N)C(=O)OCCCCCCCCCCCOc1ccc(cc1)c1ccc(cc1)C#N,50.0,Polyesters/thioesters
+P392187.mol,*Oc1ccc(cc1)C(=O)NNC(=O)c1ccc(cc1)C(=O)NNC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,175.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392188.mol,*Oc1ccc(cc1)C(=O)NNC(=O)c1cc(ccc1)C(=O)NNC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,180.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392190.mol,*Oc1ccc(cc1)C(=O)NNC(=O)c1c(cc(cc1)C(=O)NNC(=O)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)Oc1ccccc1,160.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392193.mol,*OC(=O)C1C2C=CC(C1C(=O)OCC*)C2,0.0,Polyesters/thioesters
+P392196.mol,*OC(=O)CCCCCCCCC(=O)OCC#CC(=Cc1ccc(cc1)C#Cc1ccc(cc1)C=C(C#Cc1ccccc1)C#Cc1ccccc1)C#CC*,60.0,Polyesters/thioesters
+P392197.mol,*OC(=O)CCCCCCCCC(=O)OCC#CC(=Cc1ccc(cc1)C#Cc1ccccc1)C#CC*,60.0,Polyesters/thioesters
+P392198.mol,*OC(=O)CCCCCCCCC(=O)OCC#CC(=Cc1ccc(cc1)C#Cc1ccc(cc1)[N+](=O)[O-])C#CC*,60.0,Polyesters/thioesters
+P392199.mol,*Oc1ccc(cc1)N=Nc1cc(c(cc1)Cc1c(cc(cc1)N=Nc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)[N+](=O)[O-])[N+](=O)[O-],198.0,"Polyesters/thioesters, Polyimines"
+P392200.mol,*Oc1ccc(cc1)N=Nc1c(cc(c(c1C)[N+](=O)[O-])Cc1c(c(c(c(c1)C)N=Nc1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C)[N+](=O)[O-])C,203.0,"Polyesters/thioesters, Polyimines"
+P392201.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCc1ccccc1,78.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392202.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCOCCOCC,34.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392203.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCC(C)C,75.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392204.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OC(C)C,82.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392205.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OC(CC)C,75.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392206.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCc1ccccc1,42.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392207.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCOCCOCC,2.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392208.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCC(C)C,33.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392209.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OC(C)C,44.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392210.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OC(CC)C,36.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392211.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCc1ccccc1,66.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392212.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCOCCOCC,21.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392213.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCC(C)C,62.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392214.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OC(C)C,68.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392215.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OC(CC)C,52.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392216.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCc1ccccc1,54.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392217.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCOCCOCC,15.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392218.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCC(C)C,56.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392219.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OC(C)C,56.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392220.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OC(CC)C,50.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392221.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCc1ccccc1,47.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392222.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCOCCOCC,6.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392223.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCC(C)C,42.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392224.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OC(C)C,46.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392225.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OC(CC)C,46.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392226.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCC,75.5,"Polyesters/thioesters, Polyamides/thioamides"
+P392227.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCCCC,59.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392228.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCC(=O)*)C(=O)OCCCCCCCC,51.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392229.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCC,63.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392230.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCCCC,36.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392231.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCC(=O)*)C(=O)OCCCCCCCC,28.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392232.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CC(CCC(=O)*)C)C(=O)OCC,63.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392233.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CC(CCC(=O)*)C)C(=O)OCCCCCC,38.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392234.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CC(CCC(=O)*)C)C(=O)OCCCCCCCC,30.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392235.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCC,54.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392236.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCCCC,27.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392237.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCC(=O)*)C(=O)OCCCCCCCC,22.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392238.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCC,43.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392239.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCCCC,23.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392240.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)C(=O)OCCCCCCCC,16.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392241.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCC,65.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392242.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCCCC,42.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392243.mol,*Oc1ccc(cc1)CC(NC(=O)Cc1ccc(cc1)OC(=O)CCCC(=O)*)C(=O)OCCCCCCCC,38.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392244.mol,*Oc1ccc(cc1)CCNC(=O)c1cc(ccc1)C(=O)NCCc1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,147.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392245.mol,*Oc1ccc(cc1)CCNC(=O)c1cc(ccc1)C(=O)*,152.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392246.mol,*OC(=O)c1ccc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)C=C(C#N)C#N,127.0,"Polyesters/thioesters, Polyimines"
+P392247.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)c1oc2c(n1)ccc(c2)[N+](=O)[O-])OCCC,119.0,"Polyesters/thioesters, Polyimines"
+P392248.mol,*OC(=O)c1ccc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)c1oc2c(n1)ccc(c2)[N+](=O)[O-],208.0,"Polyesters/thioesters, Polyimines"
+P392249.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)C=C(C#N)C#N)OCCC,94.0,"Polyesters/thioesters, Polyimines"
+P392252.mol,*OC(C#CC#CC(OC(=O)c1ccc(cc1)C(=O)*)C)C,133.0,Polyesters/thioesters
+P392257.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],68.0,Polyesters/thioesters
+P392258.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],63.0,Polyesters/thioesters
+P392259.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],56.0,Polyesters/thioesters
+P392260.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],50.0,Polyesters/thioesters
+P392261.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],41.0,Polyesters/thioesters
+P392262.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],34.0,Polyesters/thioesters
+P392263.mol,*Oc1ccc(cc1)OC(=O)c1c(cc(c(c1)OCCCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-])C(=O)*)OCCCCCCCCCCOCC1N(CCC1)c1ccc(cc1)[N+](=O)[O-],30.0,Polyesters/thioesters
+P392285.mol,*OC(COC(=O)/C=C\C(=O)*)C,-14.4,Polyesters/thioesters
+P392327.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OC)OC(=O)CCCCCCCCCCCCCCC(=O)*)OC(=O)c1ccc(cc1)OC,33.0,Polyesters/thioesters
+P392328.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCC)OC(=O)CCCCCCCCCCCCCCC(=O)*)OC(=O)c1ccc(cc1)OCC,31.0,Polyesters/thioesters
+P392329.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCC)OC(=O)CCCCCCCCCCCCCCC(=O)*)OC(=O)c1ccc(cc1)OCCC,18.0,Polyesters/thioesters
+P392332.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCC)OC(=O)CCCCCCCC(=O)*)OC(=O)c1ccc(cc1)OCCCC,38.0,Polyesters/thioesters
+P392333.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCC)OC(=O)CCCCCC(=O)*)OC(=O)c1ccc(cc1)OCCCC,45.0,Polyesters/thioesters
+P392334.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCCCC,59.0,Polyesters/thioesters
+P392335.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OC,88.0,Polyesters/thioesters
+P392336.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCC,71.0,Polyesters/thioesters
+P392337.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCCC,72.0,Polyesters/thioesters
+P392338.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCCC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCCCCC,44.0,Polyesters/thioesters
+P392339.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCCCCCCCCCC)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCCCCCCCCCCCC,23.0,Polyesters/thioesters
+P392340.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCC(CC)C)OC(=O)CCCC(=O)*)OC(=O)c1ccc(cc1)OCC(CC)C,60.0,Polyesters/thioesters
+P392341.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)C)OC(=O)CCCCCCCCCCCCCCC(=O)*)OC(=O)c1ccc(cc1)C,27.0,Polyesters/thioesters
+P392342.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCC)OC(=O)C(CCC(=O)*)C)OC(=O)c1ccc(cc1)OCCCC,55.0,Polyesters/thioesters
+P392343.mol,*Oc1c(cc(c(c1)OC(=O)c1ccc(cc1)OCCCC)OC(=O)C(CCC(=O)*)(C)C)OC(=O)c1ccc(cc1)OCCCC,61.0,Polyesters/thioesters
+P392344.mol,*OC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)OCCC*,101.0,Polyesters/thioesters
+P392345.mol,*OC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)OCCCCCC*,83.0,Polyesters/thioesters
+P392346.mol,*Oc1ccc(cc1)OC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)*,170.0,Polyesters/thioesters
+P392347.mol,*Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1c(ccc(c1)N=Nc1ccc(cc1)OCC)c1c(cc(cc1)N=Nc1ccc(cc1)OCC)C(=O)*,165.0,Polyesters/thioesters
+P392348.mol,*OC(=O)C=Cc1ccc(cc1)C=CC(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)[N+](=O)[O-],120.0,"Polyesters/thioesters, Polyimines"
+P392355.mol,*OC(=O)CCCCC(=O)OCCC(CC*)C,-78.6,Polyesters/thioesters
+P392362.mol,*Oc1cc(cc(c1)C(=O)OCCN(c1ccc(cc1)N=Nc1ccc(cc1)[N+](=O)[O-])CC)OC(=O)c1ccc(cc1)C(=O)*,130.0,Polyesters/thioesters
+P392370.mol,*OC(=O)c1cc(cc(c1)OCCN(c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C)C(=O)OCCN(CC*)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,83.0,"Polyesters/thioesters, Polyimines"
+P392371.mol,*OC(=O)c1cc(cc(c1)OC1CCN(CC1)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)OCCN(CC*)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,99.0,"Polyesters/thioesters, Polyimines"
+P392372.mol,*OC(=O)c1cc(cc(c1)OCCC1CCN(CC1)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)OCCN(CC*)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,86.0,"Polyesters/thioesters, Polyimines"
+P392373.mol,*OC(=O)c1cc(cc(c1)OCCN(c1ccc(cc1)S(=O)(=O)CCCCCCCC)C)C(=O)OCCN(CC*)c1ccc(cc1)S(=O)(=O)C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F,80.0,"Polyesters/thioesters, Polyimines"
+P392378.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCCCCCCCCC,35.0,"Polyesters/thioesters, Polyimines"
+P392379.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCCCCCCCCC,53.0,"Polyesters/thioesters, Polyimines"
+P392380.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCC,59.0,"Polyesters/thioesters, Polyimines"
+P392381.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCC,87.0,"Polyesters/thioesters, Polyimines"
+P392382.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCCCCCCn1c2ccccc2c2ccccc12,63.0,"Polyesters/thioesters, Polyimines"
+P392383.mol,*c1ccc2n(c3c(c2c1)cc(cc3)C=C(C(=O)OCCCCCCOC(=O)C(=C*)C#N)C#N)CCCCCCCCCCCOc1ccc(cc1)C=Cc1ccc(cc1)[N+](=O)[O-],87.0,"Polyesters/thioesters, Polyimines"
+P392390.mol,*OC(C(=O)*)CC,15.0,Polyesters/thioesters
+P392391.mol,*OC(=O)C(C(=O)OCCC[Sn](CCC*)(C)C)CCCCCCOc1ccc(cc1)c1ccc(cc1)OCc1ccc(cc1)[N+](=O)[O-],40.5,Polyesters/thioesters
+P392392.mol,*OC(COC(=O)C1=C(C2C=CC1C2)C(=O)OCC(OC(=O)c1ccc(cc1)C(=O)*)CCl)CCl,72.0,Polyesters/thioesters
+P392393.mol,*OC(COC(=O)C1=C(C2C=CC1C2)C(=O)OCC(OC(=O)c1ccc(cc1)C(=O)*)COC(=O)C1=C(C2C=CC1C2)c1ccccc1)COC(=O)C1=C(C2C=CC1C2)c1ccccc1,74.0,Polyesters/thioesters
+P392394.mol,*OC1CCC(CC1)OC(=O)c1ccc(cc1)C(=O)*,94.3,Polyesters/thioesters
+P392399.mol,*OC(CC(=O)*)CCCCCC,-47.0,Polyesters/thioesters
+P392401.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(CC(=O)*)C)C(=O)OCc1ccccc1,55.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392411.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CCC(CC(=O)*)C)C(=O)OC,53.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392418.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CC(CCC(=O)*)C)C(=O)OC(CC)C,45.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392423.mol,*OC(=O)CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC(=O)OCCCC*,-55.0,Polyesters/thioesters
+P392429.mol,*OC(=O)c1ccc(cc1)C(=O)OCC(C*)C,55.0,Polyesters/thioesters
+P392430.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOC(=O)CCC(=O)OCC*,23.0,Polyesters/thioesters
+P392431.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOC(=O)CCCCC(=O)OCC*,6.0,Polyesters/thioesters
+P392432.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOC(=O)CCCCCCC(=O)OCC*,-1.33,Polyesters/thioesters
+P392433.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOC(=O)CCCCCCCCC(=O)OCC*,-6.75,Polyesters/thioesters
+P392434.mol,*OC(=O)c1ccc(cc1)C(=O)OCCOC(=O)CCCCCCCCCCC(=O)OCC*,-8.0,Polyesters/thioesters
+P392436.mol,*OC(=O)c1ccc(cc1)C(=O)OCCCCOC(=O)CCCCC(=O)OCCCC*,-20.0,Polyesters/thioesters
+P392450.mol,*OC(=O)c1cc(ccc1)C(=O)OCCc1ccc(cc1)NC(=O)c1cc(ccc1)C(=O)Nc1ccc(cc1)CC*,142.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392451.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)c1oc2c(n1)cccc2)OCCC,117.0,"Polyesters/thioesters, Polyimines"
+P392458.mol,*Oc1ccc(cc1)N=Nc1cc(c(cc1)Cc1c(cc(cc1)N=Nc1ccc(cc1)OC(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)*)[N+](=O)[O-])[N+](=O)[O-],160.0,"Polyesters/thioesters, Polyimines"
+P392459.mol,*Oc1ccc(cc1)N=Nc1cc(c(cc1)S(=O)(=O)c1c(cc(cc1)N=Nc1ccc(cc1)OC(=O)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)*)[N+](=O)[O-])[N+](=O)[O-],150.0,"Polyesters/thioesters, Polyimines, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392460.mol,*OC(=O)CCC#CC#CCCC(=O)OCCN(CC*)c1ccc(cc1)[N+](=O)[O-],30.0,"Polyesters/thioesters, Polyimines"
+P392461.mol,*OC(=O)CCC#CC#CCCC(=O)OCCN(CC*)c1ccc(cc1)N=Nc1c(cc(cc1C)N=Nc1ccc(cc1)C#N)C,63.0,"Polyesters/thioesters, Polyimines"
+P392462.mol,*O[Ca]OC(=O)c1c(cccc1)C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)*,-2.4,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392463.mol,*OC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)O[Cd]OC(=O)c1c(cccc1)C(=O)OCCCCC*,-6.8,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392464.mol,*OC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)O[Pb]OC(=O)c1c(cccc1)C(=O)OCCCCC*,-19.2,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392465.mol,*O[Zn]OC(=O)c1c(cccc1)C(=O)OCCCCCOC(=O)NCCCCCCNC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)*,-4.3,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392466.mol,*O[Ca]OC(=O)c1c(cccc1)C(=O)OCCCCCOC(=O)Nc1c(ccc(c1)NC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)*)C,5.1,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392467.mol,*OC(=O)Nc1c(ccc(c1)NC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)O[Cd]OC(=O)c1c(cccc1)C(=O)OCCCCC*)C,2.3,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392468.mol,*OC(=O)Nc1c(ccc(c1)NC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)O[Pb]OC(=O)c1c(cccc1)C(=O)OCCCCC*)C,-11.3,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392469.mol,*O[Zn]OC(=O)c1c(cccc1)C(=O)OCCCCCOC(=O)Nc1c(ccc(c1)NC(=O)OCCCCCOC(=O)c1c(cccc1)C(=O)*)C,4.2,"Polyesters/thioesters, Polyurethanes/thiourethanes"
+P392490.mol,*OC(=O)C1=C(CCCC=C1C(=O)OCC*)N1CCCC1,345.0,Polyesters/thioesters
+P392491.mol,*Oc1ccc(cc1)OC(=O)c1cc(cc(c1)OCCCCCCCCCCC(C(C(C(C(C(C(C(C(C(F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)(F)F)C(=O)*,137.0,Polyesters/thioesters
+P392505.mol,*Oc1c(cc(c(c1)OCCOC)OC(=O)c1c(cc(cc1)C(=O)*)OCCOCC)OCCOC,99.0,Polyesters/thioesters
+P392509.mol,*Oc1ccc(cc1)CC(NC(=O)CCc1ccc(cc1)OC(=O)CC(CCC(=O)*)C)C(=O)OCCCC,35.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392512.mol,*OC(=O)CNC(=O)C*,67.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392534.mol,*O[Si](CCCC(=O)Oc1ccc(cc1)C=Nc1ccc(cc1)N=Cc1ccc(cc1)OC(=O)CCC[Si](*)(C)C)(C)C,60.0,"Polyesters/thioesters, Polyimines, Polysiloxanes/silanes"
+P392535.mol,*O[Si](CCCC(=O)Oc1ccc(cc1)C=Nc1ccc(cc1)Cc1ccc(cc1)N=Cc1ccc(cc1)OC(=O)CCC[Si](*)(C)C)(C)C,68.0,"Polyesters/thioesters, Polyimines, Polysiloxanes/silanes"
+P392536.mol,*Oc1c(cc(c(c1)OCCOC)OC(=O)c1c(cc(cc1)C(=O)*)c1ccccc1)OCCOC,92.0,Polyesters/thioesters
+P392542.mol,*C1N(CC(C1)OC(=O)*)C(=O)OCc1ccccc1,78.0,"Polyesters/thioesters, Polyimines"
+P392543.mol,*OC(=O)CCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)OC,22.0,Polyesters/thioesters
+P392544.mol,*OC(=O)CCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)C(F)(F)F,44.0,Polyesters/thioesters
+P392545.mol,*OC(=O)CCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)C,29.0,Polyesters/thioesters
+P392546.mol,*OC(=O)CCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)Cl,9.0,Polyesters/thioesters
+P392547.mol,*OC(=O)CCCCC(=O)OCC(C*)CCCCCCOc1ccc(cc1)N=Nc1ccc(cc1)Br,24.0,Polyesters/thioesters
+P392548.mol,*OC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)OCC*,94.0,Polyesters/thioesters
+P392551.mol,*OC(COC(=O)C12CC3(CC(CC(C1)C3)C2)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,105.0,Polyesters/thioesters
+P392552.mol,*OC(COC(=O)C1CCC(CC1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,106.0,Polyesters/thioesters
+P392553.mol,*OC(COC(=O)c1c(cccc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,105.0,Polyesters/thioesters
+P392554.mol,*OC(COC(=O)c1c(cc(cc1)C)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,124.0,Polyesters/thioesters
+P392556.mol,*c1c(nccc1)C(=O)OC(COC(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,130.0,"Polyesters/thioesters, Polyimines"
+P392558.mol,*OC(COC(=O)c1cc(ccc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,119.0,Polyesters/thioesters
+P392559.mol,*OC(COC(=O)c1cc(cc(c1)C(C)(C)C)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,137.0,Polyesters/thioesters
+P392560.mol,*OC(COC(=O)c1ccc(cc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,122.0,Polyesters/thioesters
+P392561.mol,*OC(COC(=O)c1cc(c(cc1)C(=O)*)OC)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,120.0,Polyesters/thioesters
+P392563.mol,*OC(COC(=O)c1c2c(c(cc1)C(=O)*)cccc2)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,117.0,Polyesters/thioesters
+P392564.mol,*OC(COC(=O)c1cc2c(cc1)cc(cc2)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,138.0,Polyesters/thioesters
+P392565.mol,*OC(COC(=O)c1c(cccc1)c1c(cccc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,120.0,Polyesters/thioesters
+P392566.mol,*OC(COC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,141.0,Polyesters/thioesters
+P392567.mol,*OC(COC(=O)c1cc(ccc1)c1ccc(cc1)C(=O)*)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,135.0,Polyesters/thioesters
+P392569.mol,*OC(COC(=O)c1c(c(c(c(c1F)F)c1c(c(c(c(c1F)F)C(=O)*)F)F)F)F)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,112.0,Polyesters/thioesters
+P392570.mol,*OC(COC(=O)c1c(c(c(cc1)c1c(cc(c(c1)CCCCCCCC)c1c(c(c(cc1)C(=O)*)F)F)CCCCCCCC)F)F)COc1ccc(cc1)N=Nc1ccc(cc1)C#N,61.0,Polyesters/thioesters
+P392571.mol,*OC(=O)CCCC(=O)NCCCCCC*,-18.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392572.mol,*Oc1ccc(cc1)C1(CCC(CC1)C(C)(C)C)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,210.0,Polyesters/thioesters
+P392573.mol,*OC(=O)CCCCC(=O)OCC(C*)O,-20.0,Polyesters/thioesters
+P392600.mol,*Oc1ccc(cc1)c1ccc(cc1)N=Nc1ccc(cc1)C(=O)*,147.0,"Polyesters/thioesters, Polyimines"
+P392623.mol,*OC(=O)C(NC(=O)C=CC(=O)NC(C(=O)OCCCC*)Cc1ccccc1)Cc1ccccc1,103.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392624.mol,*OC(=O)C(NC(=O)C=CC(=O)NC(C(=O)OCCCCCC*)Cc1ccccc1)Cc1ccccc1,92.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392625.mol,*OC(=O)C(NC(=O)C=CC(=O)NC(C(=O)OCC=CC*)Cc1ccccc1)Cc1ccccc1,109.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392626.mol,*OC(=O)C(NC(=O)CCCCC(=O)NC(C(=O)OCC=CC*)Cc1ccccc1)Cc1ccccc1,61.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392627.mol,*OC(=O)C(NC(=O)CCCCCCCCC(=O)NC(C(=O)OCC=CC*)Cc1ccccc1)Cc1ccccc1,46.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392635.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)c1nc2c([nH]1)ccc(c2)[N+](=O)[O-])OCCC,152.0,"Polyesters/thioesters, Polyimines"
+P392636.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1[nH]c(c(n1)C#N)C#N)OCCC,152.0,"Polyesters/thioesters, Polyimines"
+P392637.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1[nH]c(c(n1)C#N)C#N)OCCCCC,131.0,"Polyesters/thioesters, Polyimines"
+P392641.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1c(cccc1)c1c(cccc1)C(=O)*)(C(F)(F)F)C(F)(F)F,162.0,Polyesters/thioesters
+P392642.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCC(C*)(C)C,101.0,Polyesters/thioesters
+P392643.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCC(C*)(CC)C,99.0,Polyesters/thioesters
+P392644.mol,*OC(=O)c1ccc(cc1)c1ccc(cc1)C(=O)OCC(C*)(CCC)C,95.0,Polyesters/thioesters
+P392645.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCC(=O)*,50.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392646.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCCC(=O)*,60.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392647.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCCCC(=O)*,40.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392648.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCCCCC(=O)*,28.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392649.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCCCCCC(=O)*,25.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392650.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)CCCCCCCCC(=O)*,28.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392651.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)c1ccc(cc1)C(=O)*,120.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392652.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)c1cc(ccc1)C(=O)*,105.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392653.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)C(C(C(=O)*)C)C,45.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392654.mol,*Oc1c(cccc1)C(=O)OC(=O)c1c(cccc1)OC(=O)C(C(C(=O)*)CC)CC,23.0,"Polyesters/thioesters, Polyanhydrides/thioanhydrides"
+P392660.mol,*OC(=O)C(C(C(=O)OCCCCCCCCC*)O)O,-11.0,Polyesters/thioesters
+P392661.mol,*OC(=O)CCC(=O)OCCCCCCCCC*,31.0,Polyesters/thioesters
+P392662.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)c1cc(ccc1)C(F)(F)F,158.13,Polyesters/thioesters
+P392664.mol,*OC(=O)c1cc(cc(c1)OCc1cc(cc(c1)OCc1ccccc1)OCc1ccccc1)C(=O)OCCN(CC*)c1ccc(cc1)C=Cc1sc(cc1)C=CC1=C(C(=C(C#N)C#N)OC1(c1ccccc1)C(F)(F)F)C#N,130.0,"Polyesters/thioesters, Polyimines"
+P392665.mol,*OC(=O)c1cc(cc(c1)OCc1c(c(c(c(c1F)F)OC)F)F)C(=O)OCCN(CC*)c1ccc(cc1)C=Cc1sc(cc1)C=CC1=C(C(=C(C#N)C#N)OC1(c1ccccc1)C(F)(F)F)C#N,140.0,"Polyesters/thioesters, Polyimines"
+P392667.mol,*OC(=O)CCC(=O)OCC(=O)NCCCCCCNC(=O)C*,30.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392668.mol,*OC(=O)CCCCC(=O)OCC(=O)NCCCCCCNC(=O)C*,19.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392669.mol,*OC(=O)CCCCCCC(=O)OCC(=O)NCCCCCCNC(=O)C*,8.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392670.mol,*OC(=O)CCCCCCCCC(=O)OCC(=O)NCCCCCCNC(=O)C*,2.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392671.mol,*OC(=O)CCCCCCCCCCC(=O)OCC(=O)NCCCCCCNC(=O)C*,0.9,"Polyesters/thioesters, Polyamides/thioamides"
+P392677.mol,*OC(=O)C(C(=O)OCCC[Sn](CCC*)(C)C)CCCCCCCCOc1ccc(cc1)c1ccc(cc1)OCc1ccc(cc1)C#N,4.5,Polyesters/thioesters
+P392681.mol,*Oc1c(cc(cc1)OC(=O)c1ccc(cc1)C(=O)*)C(F)(F)F,158.13,Polyesters/thioesters
+P392698.mol,*OC(=O)CCCCCCC(=O)OCC#CC*,-38.0,Polyesters/thioesters
+P392699.mol,*OC(=O)CCCCCCCCCCC(=O)OCC#CC*,-27.0,Polyesters/thioesters
+P392703.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)c1ccc(cc1)C=C(c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*)c1ccccc1)c1ccccc1,236.0,Polyesters/thioesters
+P392704.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)c1ccc(cc1)C=C(c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*)c1ccccc1)c1ccccc1,224.0,Polyesters/thioesters
+P392705.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)c1ccc(cc1)C=C(c1ccc(cc1)OC(=O)CCCCC(=O)*)c1ccccc1)c1ccccc1,128.0,Polyesters/thioesters
+P392706.mol,*Oc1ccc(cc1)C(=Cc1ccc(cc1)c1ccc(cc1)C=C(c1ccc(cc1)OC(=O)CCCCCCCCC(=O)*)c1ccccc1)c1ccccc1,111.0,Polyesters/thioesters
+P392709.mol,*OC(=O)c1ccc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)c1nc2c(n1CC)cc(cc2)[N+](=O)[O-],149.0,"Polyesters/thioesters, Polyimines"
+P392710.mol,*OC(=O)c1cc(ccc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)c1nc2c(n1CC)cc(cc2)[N+](=O)[O-],147.0,"Polyesters/thioesters, Polyimines"
+P392711.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)c1nc2c(n1CC)cc(cc2)[N+](=O)[O-])OC,146.0,"Polyesters/thioesters, Polyimines"
+P392712.mol,*OC(=O)c1c(cc(cc1)C(=O)OCCN(CC*)c1ccc(cc1)N=Nc1ccc(cc1)C=Cc1nc2c(n1CC)cc(cc2)[N+](=O)[O-])OC,173.0,"Polyesters/thioesters, Polyimines"
+P392718.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,252.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392719.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)c1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,248.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392720.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)Cc1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,221.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392721.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)S(=O)(=O)c1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,233.0,"Polyesters/thioesters, Polyamides/thioamides, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392722.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1ccc(cc1)C(c1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1)(C(F)(F)F)C(F)(F)F,257.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392723.mol,*c1cc2c(cc1OC(=O)COc1ccc3c(c1)oc(=O)cc3)oc(=O)c(c2)C(=O)Nc1cc(ccc1)NC(=O)c1c(=O)oc2c(cc(c(c2)OC(=O)COc2ccc3c(c2)oc(=O)cc3)C*)c1,240.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392727.mol,*OC(=O)C=CC(=O)NCCCCCCNC(=O)C=CC(=O)OCC*,89.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392731.mol,*c1nc2c(nc1c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)Oc1ccc(cc1)*)cccc2,245.0,"Polyesters/thioesters, Polyimines"
+P392732.mol,*c1nc2c(nc1c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)Oc1ccc(cc1)*)cccc2,232.0,"Polyesters/thioesters, Polyimines"
+P392733.mol,*c1nc2c(nc1c1cc3c(cc1)cc(cc3)OC(=O)c1cc(ccc1)C(=O)Oc1cc3c(cc1)cc(cc3)*)cccc2,151.0,"Polyesters/thioesters, Polyimines"
+P392734.mol,*c1nc2c(nc1c1cc3c(cc1)cc(cc3)OC(=O)c1ccc(cc1)C(=O)Oc1cc3c(cc1)cc(cc3)*)cccc2,136.0,"Polyesters/thioesters, Polyimines"
+P392737.mol,*Oc1ccc(cc1)C1(CC2C(CC1)CCCC2)c1ccc(cc1)OC(=O)c1ccc(cc1)C(=O)*,275.0,Polyesters/thioesters
+P392738.mol,*Oc1ccc(cc1)C1(CC2C(CC1)CCCC2)c1ccc(cc1)OC(=O)c1cc(ccc1)C(=O)*,248.0,Polyesters/thioesters
+P392739.mol,*Oc1c(cc(cc1)C1(CC2C(CC1)CCCC2)c1cc(c(cc1)OC(=O)c1ccc(cc1)C(=O)*)C)C,247.0,Polyesters/thioesters
+P392740.mol,*Oc1c(cc(cc1)C1(CC2C(CC1)CCCC2)c1cc(c(cc1)OC(=O)c1cc(ccc1)C(=O)*)C)C,207.0,Polyesters/thioesters
+P392741.mol,*Oc1c(cc(cc1C)C1(CC2C(CC1)CCCC2)c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)C(=O)*)C)C,287.0,Polyesters/thioesters
+P392742.mol,*Oc1c(cc(cc1C)C1(CC2C(CC1)CCCC2)c1cc(c(c(c1)C)OC(=O)c1cc(ccc1)C(=O)*)C)C,261.0,Polyesters/thioesters
+P392743.mol,*c1cc2c(cc1)oc(=O)c(c2)C(=O)Nc1ccc(cc1)C(c1ccc(cc1)NC(=O)c1c(=O)oc2c(cc(cc2)C*)c1)(C(F)(F)F)C(F)(F)F,329.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392744.mol,*Oc1ccc(cc1)C1(c2ccccc2c2ccccc12)c1ccc(cc1)OC(=O)C12CC3(CC(CC(C1)C3)C2)C(=O)*,335.0,Polyesters/thioesters
+P392746.mol,*Oc1ccc(cc1)NC(=O)C=CC(=O)NNC(=O)C=CC(=O)Nc1ccc(cc1)OC(=O)C=CC(=O)NNC(=O)C=CC(=O)*,265.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392747.mol,*Oc1ccc(cc1)NC(=O)C=CC(=O)NNC(=O)C=CC(=O)Nc1ccc(cc1)OC(=O)c1c(cccc1)C(=O)NNC(=O)c1c(cccc1)C(=O)*,240.0,"Polyesters/thioesters, Polyamides/thioamides"
+P392748.mol,*OC(=CCC)C(C(=O)*)CC,-17.87,Polyesters/thioesters
+P392752.mol,*Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc(cc(c1)NC(=O)c1ccc(cc1)NC(=O)C(N1C(=O)c2c(C1=O)cccc2)C)C(=O)*)(C)C,238.0,Polyesters/thioesters
+P392757.mol,*Oc1ccc(cc1)S(=O)(=O)c1ccc(cc1)OC(=O)c1cc(cc(c1)NC(=O)c1ccc(cc1)NC(=O)C(N1C(=O)c2c(C1=O)cccc2)C)C(=O)*,200.0,"Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P392762.mol,*OC(C(=O)*)Cc1ccccc1,35.05,Polyesters/thioesters
+P392771.mol,*C1OC(=O)C(C1)CCC1C(=O)OC(C1)CCC=CCC*,36.6,Polyesters/thioesters
+P392772.mol,*C1OC(=O)C(C1)CCC1C(=O)OC(C1)CCCCC=CCCCC*,24.7,Polyesters/thioesters
+P392773.mol,*C1OC(=O)C(C1)CCC1C(=O)OC(C1)CCCCCC*,37.9,Polyesters/thioesters
+P392775.mol,*Oc1ccc(cc1)[Si](c1ccc(cc1)OC(=O)c1cc2Cc3c(c2cc1)ccc(c3)C(=O)*)(c1ccccc1)c1ccccc1,72.1,"Polyesters/thioesters, Polysiloxanes/silanes"
+P430058.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCC*)cc1,126.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430059.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCCC*)cc1,147.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430060.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCCCC*)cc1,133.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430061.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCCCCC*)cc1,117.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430065.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCCCCCCCCC*)cc1,97.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430067.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCC*,132.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430068.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCC*,123.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430069.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCCC*,118.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430070.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCCCC*,107.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430071.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCCCCCCCC*,61.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430072.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)CCCCCCCCCCC*,60.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430073.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)CCC*,132.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430074.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)CCCC*,89.32,"Polyimides/thioimides, Polyesters/thioesters"
+P430075.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)CCCCC*,89.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430076.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)CCCCCC*,74.32,"Polyimides/thioimides, Polyesters/thioesters"
+P430077.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)CCCCCCCCCCC*,58.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430159.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCOC(=O)*)cc1,100.5,"Polyimides/thioimides, Polyesters/thioesters"
+P430160.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCOC(=O)*)cc1,90.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430161.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCOC(=O)*)cc1,80.5,"Polyimides/thioimides, Polyesters/thioesters"
+P430162.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCOC(=O)*)cc1,77.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430163.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCOC(=O)*)cc1,65.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430164.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCCOC(=O)*)cc1,62.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430165.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCCCOC(=O)*)cc1,58.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430166.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCCCCOC(=O)*)cc1,49.0,"Polyimides/thioimides, Polyesters/thioesters"
+P430167.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCCCCCOC(=O)*)cc1,46.8,"Polyimides/thioimides, Polyesters/thioesters"
+P430173.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Cc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)c2ccc(cc2)Oc2ccc(cc2)C2(c3c(C(=O)O2)cccc3)c2ccc(cc2)Oc2ccc(cc2)C(=O)*)cc1,268.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones"
+P430178.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)c2ccc(cc2)Oc2ccc(cc2)C2(c3c(C(=O)O2)cccc3)c2ccc(cc2)Oc2ccc(cc2)C(=O)*)cc1,260.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters, Polyketones/thioketones"
+P430194.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)*)(C)C)cc1,200.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P430353.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCSCCCCSCCCOC(=O)*)cc1,39.0,"Polyimides/thioimides, Polysulfides, Polyesters/thioesters"
+P430354.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCSCCCCCCSCCCOC(=O)*)cc1,31.0,"Polyimides/thioimides, Polysulfides, Polyesters/thioesters"
+P430355.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCOCCOC(=O)*)cc1,101.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P430356.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCOCCOCCOC(=O)*)cc1,63.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P430362.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCOCCOCCOCCOC(=O)*)cc1,52.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432063.mol,*N1C(=O)c2c(C1=O)cc(cc2)S(=O)(=O)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)CCCCCCC(=O)OCCCCCC*)cc1,46.0,"Polyimides/thioimides, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432064.mol,*N1C(=O)c2c(C1=O)cc(cc2)S(=O)(=O)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)CCCCCCCCC(=O)OCCCCCC*)cc1,72.0,"Polyimides/thioimides, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432065.mol,*N1C(=O)c2c(C1=O)cc(cc2)S(=O)(=O)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)CCCCCCCCCCCCCCCCCCC(=O)OCCCCCC*)cc1,19.0,"Polyimides/thioimides, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432152.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCOCCOCC*)cc1,105.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432153.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1cc2c(cc1)cc(cc2)OC(=O)c1cc2c(C(=O)N(C2=O)CCOCCOCC*)cc1,105.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432154.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCOCCOCC*)cc1,109.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432155.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCOCCOCC*)cc1)(C)C,118.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432156.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1c(cc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCOCCOCC*)cc1)c1ccccc1,105.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432157.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCOCCCCOCCC*)cc1,56.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432158.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1cc2c(cc1)cc(cc2)OC(=O)c1cc2c(C(=O)N(C2=O)CCCOCCCCOCCC*)cc1,68.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432159.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCOCCCCOCCC*)cc1,70.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432160.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCOCCCCOCCC*)cc1)(C)C,60.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432161.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1c(cc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CCCOCCCCOCCC*)cc1)c1ccccc1,71.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432173.mol,*N1C(=O)c2c(C1=O)cc(cc2)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)c2cc(cc(c2)OCCCCCCOc2ccc(cc2)N=Nc2ccc(cc2)C#N)C(=O)OCCCCCC*)cc1,93.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432174.mol,*N1C(=O)c2c(C1=O)cc(cc2)c1ccc(cc1)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)c2cc(cc(c2)OCCCCCCOc2ccc(cc2)N=Nc2ccc(cc2)C#N)C(=O)OCCCCCC*)cc1,67.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432175.mol,*N1C(=O)c2c(C1=O)cc(cc2)S(=O)(=O)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)c2cc(cc(c2)OCCCCCCOc2ccc(cc2)N=Nc2ccc(cc2)C#N)C(=O)OCCCCCC*)cc1,83.0,"Polyimides/thioimides, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432176.mol,*N1C(=O)c2c(C1=O)cc(cc2)Oc1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)c2cc(cc(c2)OCCCCCCOc2ccc(cc2)N=Nc2ccc(cc2)C#N)C(=O)OCCCCCC*)cc1,61.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432213.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1cc2c(cc1)cc(cc2)OC(=O)c1cc2c(C(=O)N(C2=O)CC(CCC*)C)cc1,130.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432214.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)c1ccc(cc1)OC(=O)c1cc2c(C(=O)N(C2=O)CC(CCC*)C)cc1,155.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432245.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCOC(=O)*)cc1,280.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432246.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)C(=O)OCCOC(=O)*)cc1,220.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432355.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)C(=O)OCCCCCCCCCCCCCCCCCCCCCCOC(=O)*)cc1,44.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432357.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2)OC(=O)*)C(C)(C)C)cc1,189.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432358.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2)OC(=O)*)c2ccccc2)cc1,212.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432360.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2cc3c(cc2)ccc(c3)OC(=O)*)cc1,246.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432361.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)c2ccc(cc2)OC(=O)*)cc1,232.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432363.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Oc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCCCCCCCCCCCOC(=O)*)cc1,105.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432364.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Cc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2)OC(=O)*)C(C)(C)C)cc1,160.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432365.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)Cc2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)OCCCCCCCCCCCCOc2ccc(cc2)OC(=O)*)cc1,125.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters"
+P432366.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)S(=O)(=O)c2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2)OC(=O)*)C(C)(C)C)cc1,179.0,"Polyimides/thioimides, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432367.mol,*c1cc2c(C(=O)N(C2=O)c2ccc(cc2)S(=O)(=O)c2ccc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)OCCCCCCCCCCCCOc2ccc(cc2)OC(=O)*)cc1,140.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polyesters/thioesters, Polysulfones/sulfoxides/sufonates/sulfoamides"
+P432453.mol,*N1C(=O)c2c(C1=O)cc(cc2)c1cc2c(C(=O)N(C2=O)c2ccc(cc2)OC(=O)CCCCCCCCCCCCCCCCCCCCC(=O)Oc2ccc(cc2)*)cc1,135.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432465.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1c(cc(cc1)OC(=O)CCCC*)C,75.76,"Polyimides/thioimides, Polyesters/thioesters"
+P432466.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1c(cc(cc1)OC(=O)CCCCCC*)C,57.21,"Polyimides/thioimides, Polyesters/thioesters"
+P432487.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1cc2c(cc1)ccc(c2)OC(=O)CCCCC*,113.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432488.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCC*)(C)C,110.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432489.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCC*)(C)C)(C)C,104.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432490.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C1(CCCCC1)c1ccc(cc1)OC(=O)CCCCC*,122.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432491.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1cc2c(cc1)ccc(c2)OC(=O)CCCCCCCCCCC*,98.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432492.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCCCCCCCC*)(C)C,93.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432493.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)C(c1ccc(cc1)OC(=O)CCCCCCCCCCC*)(C)C)(C)C,97.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432494.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C1(CCCCC1)c1ccc(cc1)OC(=O)CCCCCCCCCCC*,96.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432495.mol,*N1C(=O)c2c(C1=O)cc(cc2)C(=O)Oc1ccc(cc1)C1(c2c(C(=O)O1)cccc2)c1ccc(cc1)OC(=O)CCCCCCCCCCC*,114.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432690.mol,*c1oc(=O)c2c(ccc(c2)Cc2ccc3c(c2)c(=O)oc(n3)CN2C(=O)c3c(C2=O)cc(cc3)C(c2cc3c(C(=O)N(C3=O)C*)cc2)(C(F)(F)F)C(F)(F)F)n1,218.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P432720.mol,*N1C(=O)c2c(C1=O)cc(cc2)c1cc2c(C(=O)N(C2=O)CCCCCCOC(=O)CCCCCCCCCCN2C(=O)c3c(C2=O)cc(cc3)c2ccc(cc2)c2cc3c(C(=O)N(C3=O)CCCCCCCCCCC(=O)OCCCCCC*)cc2)cc1,45.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432721.mol,*N1C(=O)c2c(C1=O)cc(cc2)c1cc2c(C(=O)N(C2=O)CCCCCOC(=O)CCCCCCCCCCN2C(=O)c3c(C2=O)cc(cc3)c2ccc(cc2)c2cc3c(C(=O)N(C3=O)CCCCCCCCCCC(=O)OCCCCC*)cc2)cc1,41.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432783.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)c2cc(c(cc2)C)N2C(=O)c3c(C2=O)cc(cc3)C(*)(C(F)(F)F)C(F)(F)F)(C(F)(F)F)C(F)(F)F)C)cc1,289.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432784.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)c2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)*)(C(F)(F)F)C(F)(F)F)C)C)cc1,335.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432785.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)c2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2C)C(c2cc(c(c(c2)C)OC(=O)*)C)(C(F)(F)F)C(F)(F)F)C)C)C)cc1,327.0,"Polyimides/thioimides, Polyesters/thioesters"
+P432999.mol,*N1C(=O)C(CC1=O)SCCOCCSC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1ccc(cc1)OC(=O)c1ccc(cc1)*,166.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P433002.mol,*N1C(=O)C(CC1=O)SCCOCCSC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1cc2c(cc1)ccc(c2)OC(=O)c1ccc(cc1)*,160.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P433003.mol,*N1C(=O)C(CC1=O)SCCOCCSC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1ccc(cc1)C(c1ccc(cc1)OC(=O)c1ccc(cc1)*)(C)C,143.0,"Polyimides/thioimides, Polyoxides/ethers/acetals, Polysulfides, Polyesters/thioesters"
+P433009.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)*)(C)C)C)C)cc1,166.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433010.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(cc(cc2C)C(c2cc(c(c(c2)C)OC(=O)*)C)(C)C)C)C)C)cc1,182.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433011.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2cc(c(cc2)c2c(cc(cc2)OC(=O)*)C)C)C)C)cc1,177.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433012.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2c(ccc(c2)OC(=O)*)C23CC4CC(CC(C2)C4)C3)C)C)cc1,225.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433013.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C2(C3CC4CC(CC2C4)C3)c2ccc(cc2)OC(=O)*)C)C)cc1,222.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433014.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C2(C3C4C(CCC4)C(C2)C3)c2ccc(cc2)OC(=O)*)C)C)cc1,226.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433015.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C2(CCCCCCCCCCC2)c2ccc(cc2)OC(=O)*)C)C)cc1,204.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433016.mol,*c1cc2c(C(=O)N(C2=O)c2cc(c(cc2)c2c(cc(cc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C2(CCC(CC2)C(C)(C)C)c2ccc(cc2)OC(=O)*)C)C)cc1,217.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433149.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccc(cc2)[N+](=O)[O-])cc1,210.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433150.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccc(cc2)C)cc1,171.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433151.mol,*c1cc2c(C(=O)N(C2=O)c2cc(ccc2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccc(cc2)F)cc1,168.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433189.mol,*N1C(=O)C(CC1=O)SCCCCCSC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)OCC(NC(=O)c1ccc(cc1)*)CC,91.0,"Polyimides/thioimides, Polysulfides, Polyesters/thioesters, Polyamides/thioamides"
+P433392.mol,*N1C(=O)C(CC1=O)Nc1ccc(cc1)Cc1ccc(cc1)NC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)*)C)c1cnccc1)C,186.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433393.mol,*N1C(=O)C(CC1=O)Nc1cc(ccc1)NC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)*)C)c1cnccc1)C,194.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433394.mol,*N1C(=O)C(CC1=O)Nc1ccc(cc1)NC1C(=O)N(C(=O)C1)c1ccc(cc1)C(=O)Oc1c(cc(cc1C)C(c1cc(c(c(c1)C)OC(=O)c1ccc(cc1)*)C)c1cnccc1)C,212.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433406.mol,*c1cc2c(C(=O)N(C2=O)C2CCC(CC2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)OC(=O)*)cc1,360.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433425.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)Oc2ccc(cc2)C(c2ccc(cc2)OC(=O)*)(C)C)O)cc1,225.0,"Polyimides/thioimides, Polyesters/thioesters"
+P433563.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)Cc2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccccc2)C)C)cc1,177.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433564.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)Cc2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccc(cc2)[N+](=O)[O-])C)C)cc1,179.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433565.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)Cc2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2c(cc(cc2)[N+](=O)[O-])[N+](=O)[O-])C)C)cc1,176.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433566.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)Cc2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2c(cc(cc2)[N+](=O)[O-])C#N)C)C)cc1,216.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433721.mol,*c1cc2c(C(=O)N(C2=O)c2c(cc(cc2C)Cc2cc(c(c(c2)C)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)C(=C(C#N)C#N)C#N)C)C)cc1,208.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433724.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccccc2)N=Nc2ccccc2)cc1,156.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433725.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)C(=C(C#N)C#N)C#N)N=Nc2ccc(cc2)C(=C(C#N)C#N)C#N)cc1,187.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433726.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccccc2)N=Nc2ccccc2)cc1,119.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
+P433727.mol,*c1cc2c(C(=O)N(C2=O)c2c(ccc(c2)N2C(=O)c3c(C2=O)cc(cc3)C(=O)OCCN(CCOC(=O)*)c2ccc(cc2)N=Nc2ccc(cc2)C(=C(C#N)C#N)C#N)N=Nc2ccc(cc2)C(=C(C#N)C#N)C#N)cc1,121.0,"Polyimides/thioimides, Polyesters/thioesters, Polyimines"
