@@ -19,6 +19,8 @@ Polymer_type: four polymer types data from Tg dataset.
 * Mean-variance estimation (MVE): Pytorch
 * Bayesian neural network (BNN): Pytorch
 * Evidential deep learning (EDL): Pytorch, [Chemprop](https://github.com/aamini/chemprop)
+* Quantile regression (QR): Pytorch
+* Natural gradient boosting (NGBoosting): [NGBoost](https://github.com/stanfordnlp/ngboost)
 
 ### Input
 * Morgan fingerprint with frequency (MFF): Considering the number of substructures
